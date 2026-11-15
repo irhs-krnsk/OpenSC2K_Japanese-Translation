@@ -1,0 +1,2940 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.8\n"
+
+msgid " %d buildings still need records; the table is full."
+msgstr "%d棟の建物について依然として記録が必要です; テーブルは満杯です。"
+
+msgid " %d links or records that SC2X cannot describe were kept unchanged."
+msgstr "SC2Xで記述できない%d個のリンクまたはレコードは、変更されずにそのまま残されました。"
+
+msgid " (oldest)"
+msgstr " (最古)"
+
+msgid " Moved the Ocean neighbor to the side of the map with the ocean."
+msgstr "海に面したオブジェクトをマップ上の海がある側へと移動させました。"
+
+msgid " Restored facility records for %d buildings."
+msgstr "%d 棟の建造物の記録を復元しました。"
+
+msgid " Route stopped: %s."
+msgstr "ルートが中断されました: %s."
+
+msgid " The bridge was not built: %s."
+msgstr "橋は建設されませんでした: %s."
+
+msgid "% of CITY"
+msgstr "%の街"
+
+msgid "%d eq"
+msgstr "%d 教育指数"
+
+msgid "%d yrs"
+msgstr "%d年"
+
+msgid ""
+"%s\n"
+"$%s total\n"
+"$%s for each %s"
+msgstr ""
+"%s\n"
+"合計 $%s\n"
+"$%s / %s"
+
+msgid ""
+"%s\n"
+"Free in Place & Print"
+msgstr ""
+"%s\n"
+"配置と印刷無料"
+
+msgid "%s %s."
+msgstr "%s %s."
+
+msgid "%s advisor"
+msgstr "%s アドバイザー"
+
+msgid "%s counts %d residents"
+msgstr "%s の住人は%d 人"
+
+msgid "%s has a recorded population of %d. City services and transport must keep pace as new neighborhoods develop. Residents need connections to employment, electricity and water. This edition records conditions on %s."
+msgstr "%sの人口は%d人です。新たな居住地域が開発されるにつれ、都市サービスや交通網もそれに応じて整備していかなければなりません。住民には、雇用機会へのアクセス、そして電気や水道といったインフラが必要です。本稿では、%sにおける状況を記録しています。"
+
+msgid "%s is not available in this city."
+msgstr "この都市では %s は利用できません。"
+
+msgid "%s pack saved, but could not be loaded. The previous pack is still active."
+msgstr "%s パックは保存されましたが、読み込むことができませんでした。引き続き以前のパックが有効なままとなっています。"
+
+msgid "%s placement was rejected by nearby residents."
+msgstr "%sの設置は近隣住民から拒絶されました。"
+
+msgid "%s preview: %d charged %s for $%s."
+msgstr "%s プレビュー: %d の %s を $%s 請求しました。"
+
+msgid "%s preview: %d tiles; free in SCURK."
+msgstr "%s プレビュー: タイル数 %d; SCURK で利用可能。"
+
+msgid "%s speed selected."
+msgstr "速度選択: %s ."
+
+msgid "%s started."
+msgstr "%s 開始。"
+
+msgid "... (continued on pg %d)"
+msgstr "... (%dページに続く)"
+
+msgid "1 Year"
+msgstr "1年"
+
+msgid "10 Years"
+msgstr "10年"
+
+msgid "100 Yrs"
+msgstr "100年"
+
+msgid "11 demand tiles"
+msgstr "11タイル分の供給可能"
+
+msgid "111 demand tiles"
+msgstr "111タイル分の供給可能"
+
+msgid "1x - Small"
+msgstr "1x - スモール"
+
+msgid "2 by 2 water section"
+msgstr "2x2 の水域"
+
+msgid "2 by 2 water sections"
+msgstr "2x2 の水域"
+
+msgid "2x - Medium"
+msgstr "2x - ミディアム"
+
+msgid "355 demand tiles"
+msgstr "355タイル分の供給可能"
+
+msgid "40 demand tiles"
+msgstr "40タイル分の供給可能"
+
+msgid "44 demand tiles"
+msgstr "44タイル分の供給可能"
+
+msgid "48 demand tiles"
+msgstr "48タイル分の供給可能"
+
+msgid "4x - Large"
+msgstr "4x - ラージ"
+
+msgid "5 to 14 demand tiles; varies with rain"
+msgstr "5から14タイル分の供給可能(降雨により変動)"
+
+msgid "50 years"
+msgstr "50年"
+
+msgid "555 demand tiles"
+msgstr "555タイル分の供給可能"
+
+msgid "A Single Penny"
+msgstr "1ペニー"
+
+msgid "A closer look at city services"
+msgstr "市が提供するサービスを詳しく見る"
+
+msgid "A microwave disaster can start at this plant."
+msgstr "この発電所からマイクロ波の事故が起きる可能性がある。"
+
+msgid "ACRES"
+msgstr "エーカー"
+
+msgid "About"
+msgstr "詳細"
+
+msgid "About OpenSC2K"
+msgstr "OpenSC2Kについて"
+
+msgid "Above Ground"
+msgstr "地上"
+
+msgid "Actual"
+msgstr "実際"
+
+msgid "Add layer"
+msgstr "レイヤー追加"
+
+msgid "Advisor"
+msgstr "アドバイザー"
+
+msgid "Aerospace"
+msgstr "航空宇宙"
+
+msgid "African Swallow"
+msgstr "アフリカツバメ"
+
+msgid "After copy: source graphics"
+msgstr "後: 元となるグラフィック"
+
+msgid "Air Crash"
+msgstr "飛行機事故"
+
+msgid "Airport"
+msgstr "空港"
+
+msgid "Airport or Seaport"
+msgstr "空港と港"
+
+msgid "All"
+msgstr "全て"
+
+msgid "All keyboard and mouse bindings will return to their default values. Your custom bindings will be lost."
+msgstr "キーボードおよびマウスの割り当てを全てデフォルト値に戻します。現在設定されている割り当ては失われます。"
+
+msgid "Allow different destination"
+msgstr "異なる割り当てを許可する"
+
+msgid "An empty value removes the sign."
+msgstr "値を空にすると割り当てが削除されます。"
+
+msgid "An open-source SimCity 2000 remake"
+msgstr "オープンソースによるシムシティ2000のリメイク"
+
+msgid "Animating I"
+msgstr "アニメーション１"
+
+msgid "Animating II"
+msgstr "アニメーション２"
+
+msgid "Apply"
+msgstr "適用"
+
+msgid "Arcologies"
+msgstr "アルコロジー"
+
+msgid "Ask advisor"
+msgstr "アドバイザーに相談"
+
+msgid "Ask the %s advisor"
+msgstr "アドバイザーの%sに相談"
+
+msgid "Assigned %s to the new stadium."
+msgstr "新しいスタジアムに%sと名付けました。"
+
+msgid "At full funding, each college supplies 50 units of capacity to the education phase. Serves the college-age population group."
+msgstr "十分な予算が提供されている場合、それぞれの大学は教育フェーズに対して50ユニット分の収容能力を提供します。対象は大学に通う年齢層の集団です。"
+
+msgid "At full funding, each hospital supplies 25 units of capacity to the health phase. Funding cuts reduce capacity proportionally."
+msgstr "十分な予算が提供されている場合、それぞれの病院は医療フェーズに対して25ユニット分の収容能力があります。予算が削減されると削減割合に応じて収容能力も減少します。"
+
+msgid "At full funding, each school supplies 15 units of capacity to the education phase. Serves younger population groups."
+msgstr "十分な資金が提供されている場合、それぞれの学校は教育段階に対して15ユニット分の収容能力を提供します。対象となるのはより若い年齢層です。"
+
+msgid "Audio"
+msgstr "オーディオ"
+
+msgid "Author"
+msgstr "作者"
+
+msgid "Auto-Budget"
+msgstr "自動予算"
+
+msgid "Auto-Goto"
+msgstr "自動で向かう"
+
+msgid "Automatic"
+msgstr "自動"
+
+msgid "Automatic (%s)"
+msgstr "自動(%s)"
+
+msgid "Automotive"
+msgstr "自動車"
+
+msgid "Background"
+msgstr "背景"
+
+msgid "Balance"
+msgstr "バランス"
+
+msgid "Before: current working graphics"
+msgstr "前: 現在動作中のグラフィックス"
+
+msgid "Below Ground"
+msgstr "地下"
+
+msgid "Big Park"
+msgstr "大公園"
+
+msgid "Black and White"
+msgstr "黒と白"
+
+msgid "Blizzard"
+msgstr "猛吹雪"
+
+msgid "Bond"
+msgstr "債権"
+
+msgid "Bond payments"
+msgstr "債権の支払い"
+
+msgid "Bonds"
+msgstr "債権"
+
+msgid "Box"
+msgstr "ボックス"
+
+msgid "Braun Llama Dome"
+msgstr "ブラウンラマ・ドーム"
+
+msgid "Browse"
+msgstr "詳細"
+
+msgid "Browse tiles"
+msgstr "タイルの詳細"
+
+msgid "Browse..."
+msgstr "選択..."
+
+msgid "Browse…"
+msgstr "詳細B…"
+
+msgid "Brush"
+msgstr "ブラシ"
+
+msgid "Brush size"
+msgstr "ブラシサイズ"
+
+msgid "Brush size in tiles (1–15)"
+msgstr "タイルのブラシサイズ (1–15)"
+
+msgid "Budget"
+msgstr "予算"
+
+msgid "Build %s"
+msgstr "%s建築"
+
+msgid ""
+"Build a %s connection to a neighboring city for $%s?\n"
+"The %d-tile route costs $%s and remains if you cancel."
+msgstr ""
+"隣接する都市の%sと費用$%sで接続しますか？\n"
+"この%dタイルにわたる道の建設費用は$%sです。キャンセルした場合でも道はそのまま残ります。"
+
+msgid ""
+"Build a %s connection to a neighboring city?\n"
+"The route and connection are free in Place & Print."
+msgstr ""
+"隣接する都市の%sと接続しますか？\n"
+"Place & Printでは道路建築と接続は無料です。"
+
+msgid "Building Zone"
+msgstr "建築範囲"
+
+msgid "Buildings"
+msgstr "建築"
+
+msgid "Built %d %s tiles and %d bridges for $%s."
+msgstr "%d %s タイルと橋, %d 橋の費用: $%s."
+
+msgid "Built %d %s tiles and a %s across %d water tiles for $%s."
+msgstr "%dを建築。 %s タイルと %s を横断して %d 水域、費用: $%s."
+
+msgid "Built %d %s tiles and a neighboring-city connection for $%s."
+msgstr "隣接する都市%dと接続しました。%d 使用タイル: %s, 接続費用: $%s."
+
+msgid "Built %d %s tiles for $%s."
+msgstr "%dタイル分の%sを建築: 費用: $%s."
+
+msgid "Built %d highway sections and %d bridges for $%s."
+msgstr "%d 高速道路と%d 橋の建築。費用: $%s."
+
+msgid "Built %d highway sections and a %s across %d water sections for $%s."
+msgstr "%d 高速道路と %s 横断する %d 水域。費用: $%s."
+
+msgid "Built %d highway sections and a neighboring-city connection for $%s."
+msgstr "%d 高速道路と隣接する都市との接続の建築。費用: $%s."
+
+msgid "Built %d highway sections for $%s."
+msgstr "%d 高速道路の建築。費用: $%s."
+
+msgid "Built %s for $%s."
+msgstr "%sの建築。費用: $%s."
+
+msgid "Built a %d-tile tunnel for $%s."
+msgstr "%dトンネルの建築。費用: $%s."
+
+msgid "Built a %s across %d water sections for $%s."
+msgstr "%s 横断する %d 水域の建築。費用: $%s."
+
+msgid "Built a %s across %d water tiles for $%s."
+msgstr "%s 横断 %d 水タイルの建築。費用: $%s."
+
+msgid "Bulldozer"
+msgstr "ブルドーザー"
+
+msgid "Bus Depot"
+msgstr "バス停"
+
+msgid "Can be blocked by nearby residential zones."
+msgstr "隣接する住宅地区によってブロックされる可能性がある。"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Cancel Dispatch"
+msgstr "派遣をキャンセル"
+
+msgid "Cannot analyze city: %s"
+msgstr "都市を解析できません: %s"
+
+msgid "Cannot apply the annual budget: %s"
+msgstr "年間予算を適用できません: %s"
+
+msgid "Cannot assign stadium team: %s"
+msgstr "スタジアムのチームに名付けられませんでした: %s"
+
+msgid "Cannot build %s: %s"
+msgstr "%sを建築できません: %s"
+
+msgid "Cannot build highway: %s"
+msgstr "高速道路を建築できません: %s"
+
+msgid "Cannot build tunnel: %s"
+msgstr "トンネルを建築できません: %s"
+
+msgid "Cannot calculate mayor approval: %s"
+msgstr "市長の支持率を算出できません: %s"
+
+msgid "Cannot change sign: %s"
+msgstr "サインを変更できません: %s"
+
+msgid "Cannot convert %s to SC2X version 4: %s"
+msgstr "%s  をSC2X version 4 に変更できません: %s"
+
+msgid "Cannot convert the city to SC2X: %s"
+msgstr "都市をSC2Xに変換できません: %s"
+
+msgid "Cannot create a new city: %s"
+msgstr "新しい都市を生成できません: %s"
+
+msgid "Cannot dispatch unit: %s"
+msgstr "ユニットを派遣できません: %s"
+
+msgid "Cannot export the city: %s"
+msgstr "都市のエクスポートができません: %s"
+
+msgid "Cannot finish the military proposal: %s"
+msgstr "軍事計画を完了できません: %s"
+
+msgid "Cannot generate terrain: %s"
+msgstr "地形を生成できません: %s"
+
+msgid "Cannot issue a bond: %s"
+msgstr "債権発行ができません: %s"
+
+msgid "Cannot open ordinances: %s"
+msgstr "条例を開けません: %s"
+
+msgid "Cannot prepare the city for export: %s"
+msgstr "都市をエクスポートするための準備ができません: %s"
+
+msgid "Cannot query tile: %s"
+msgstr "タイルを参照できません: %s"
+
+msgid "Cannot rename facility: %s"
+msgstr "施設の名前を変更できません: %s"
+
+msgid "Cannot repay a bond: %s"
+msgstr "債権の支払いができません: %s"
+
+msgid "Cannot resolve the military proposal: %s"
+msgstr "軍事計画を完了できません: %s"
+
+msgid "Cannot rotate city: %s"
+msgstr "都市を回転できません: %s"
+
+msgid "Cannot save the budget: %s"
+msgstr "予算を保存できません: %s"
+
+msgid "Cannot start the PNG export: %s"
+msgstr "PNGのエクスポートを開始できません: %s"
+
+msgid "Cannot start the disaster: %s"
+msgstr "災害の発生を開始できません: %s"
+
+msgid "Cannot start zone selection: %s"
+msgstr "地区の選択を開始できません: %s"
+
+msgid "Cannot undo the last edit: %s"
+msgstr "直近の変更をアンドゥできません: %s"
+
+msgid "Cannot update bonds: %s"
+msgstr "予算を更新できません: %s"
+
+msgid "Cannot update the %s option."
+msgstr "%s の設定を更新できません。"
+
+msgid "Capacity"
+msgstr "容量"
+
+msgid "Cash Flow"
+msgstr "資金の流れ"
+
+msgid "Center"
+msgstr "センター"
+
+msgid "Center View"
+msgstr "センター・ビュー"
+
+msgid "Center the map view on the active disaster."
+msgstr "マップの中心を現在発生中の災害に合わせます。"
+
+msgid "Centered the map on tile %d, %d."
+msgstr "マップの中心ををタイル %d, %d の位置にしました。"
+
+msgid "Changed pixels (pink)"
+msgstr "ピクセルの変更 (ピンク)"
+
+msgid "Check GitHub for a newer release now."
+msgstr "GitHubの新しいリリースをチェックする。"
+
+msgid "Check for updates"
+msgstr "アップデートをチェックする"
+
+msgid "Check for updates periodically"
+msgstr "定期的にアップデートを確認してください"
+
+msgid "Check now"
+msgstr "チェックする"
+
+msgid "Checking..."
+msgstr "チェック中..."
+
+msgid "Cheetah"
+msgstr "チーター"
+
+msgid "Chilly"
+msgstr "冷え込み"
+
+msgid "Choose File…"
+msgstr "ファイルを選択…"
+
+msgid "Choose Folder…"
+msgstr "フォルダを選択…"
+
+msgid "Choose the graphics size for each zoom level. Larger graphics show more detail. Higher zoom levels cannot use a smaller size."
+msgstr "ズームレベルのグラフィックサイズを選択してください。サイズを大きくするとより詳細が表示されます。ズームレベルが高い場合、それより小さいサイズは選択できません。"
+
+msgid "Chronicle"
+msgstr "クロニクル"
+
+msgid "City"
+msgstr "都市"
+
+msgid "City Analysis"
+msgstr "都市の分析"
+
+msgid "City Budget"
+msgstr "都市の予算"
+
+msgid "City Details"
+msgstr "都市の詳細"
+
+msgid "City Hall"
+msgstr "シティ・ホール"
+
+msgid "City Industry"
+msgstr "都市の工業"
+
+msgid "City Map"
+msgstr "都市のマップ"
+
+msgid "City Map: %s"
+msgstr "都市のマップ: %s"
+
+msgid "City Name"
+msgstr "都市の名前"
+
+msgid "City Name:"
+msgstr "都市の名前:"
+
+msgid "City Services"
+msgstr "都市のサービス"
+
+msgid "City Size"
+msgstr "都市のサイズ"
+
+msgid "City Size graph (S)"
+msgstr "都市のサイズのグラフ (S)"
+
+msgid "City Sounds"
+msgstr "都市の音"
+
+msgid "City View"
+msgstr "地上画面"
+
+msgid "City artwork"
+msgstr "都市のアートワーク"
+
+msgid "City budget"
+msgstr "都市の予算"
+
+msgid "City renamed to %s."
+msgstr "都市の名前を %s に変更。"
+
+msgid "City report"
+msgstr "都市のレポート"
+
+msgid "City view centered at %d, %d."
+msgstr "%d, %dの位置から都市を眺める。"
+
+msgid "Clear"
+msgstr "消去"
+
+msgid "Clear All"
+msgstr "全て消去"
+
+msgid "Clear Object"
+msgstr "オブジェクトを消去"
+
+msgid "Clear ramp"
+msgstr "ランプを消去"
+
+msgid "Clip to tile"
+msgstr "タイルをクリップ"
+
+msgid "Close"
+msgstr "閉じる"
+
+msgid "Close SCURK"
+msgstr "SCURKを閉じる"
+
+msgid "Close article"
+msgstr "アーティクルを閉じる"
+
+msgid "Close newspaper"
+msgstr "新聞を閉じる"
+
+msgid "Coal Power Plant"
+msgstr "石炭発電所"
+
+msgid "Cold"
+msgstr "寒い"
+
+msgid "College"
+msgstr "大学"
+
+msgid "Color"
+msgstr "色"
+
+msgid "Commentary"
+msgstr "コメンタリー"
+
+msgid "Commerce"
+msgstr "商業"
+
+msgid "Commerce graph (C)"
+msgstr "商業のグラフ (C)"
+
+msgid "Commercial"
+msgstr "商業"
+
+msgid "Compare"
+msgstr "比較"
+
+msgid "Confirmed bond actions take effect immediately. Cancel does not undo them."
+msgstr "債券関連の操作は確定すると直ちに有効となります。後から取り消すことはできません。"
+
+msgid "Connections keep the city moving"
+msgstr "都市を停滞させないためには都市の接続が必要"
+
+msgid "Construction"
+msgstr "建設"
+
+msgid "Continue City"
+msgstr "都市を続ける"
+
+msgid "Continue to play music and sounds when OpenSC2K is not the active window."
+msgstr "OpenSC2Kがアクティブなウィンドウではない時も音楽やサウンドの再生を継続します。"
+
+msgid "Controls"
+msgstr "コントロール"
+
+msgid "Converted %s to SC2X version 4. Save a new copy; the original file stays unchanged."
+msgstr "%s を SC2X バージョン 4 に変換しました。新しいコピーとして保存してください。元のファイルは変更されません。"
+
+msgid "Copy"
+msgstr "コピー"
+
+msgid "Copy All"
+msgstr "全てコピー"
+
+msgid "Copy Object Group"
+msgstr "オブジェクトグループをコピー"
+
+msgid "Copy Selected"
+msgstr "選択中をコピー"
+
+msgid "Copy from All Layers"
+msgstr "全てのレイヤーからコピー"
+
+msgid "Cost: %s"
+msgstr "コスト: %s"
+
+msgid "Courier"
+msgstr "配送業者"
+
+msgid "Created %s in %d on %s difficulty with generated terrain. Map view: %s."
+msgstr "生成された地形を使用して%d に %s を作成しました。難易度: %s,マップ表示: %s."
+
+msgid "Crime"
+msgstr "犯罪"
+
+msgid "Crime graph (X)"
+msgstr "犯罪のグラフ (X)"
+
+msgid "Current city date"
+msgstr "現在の都市のデータ"
+
+msgid "Current city date: %s"
+msgstr "現在の都市のデータ: %s"
+
+msgid "Current city funds"
+msgstr "現在の都市の資金"
+
+msgid "Current city funds: %s"
+msgstr "現在の都市の資金: %s"
+
+msgid "Current city population is not available."
+msgstr "現在の都市の人口は不明です。"
+
+msgid "Current city population: %s"
+msgstr "現在の都市の人口: %s"
+
+msgid "Current demand readings are %d for homes, %d for commerce and %d for industry. Positive readings indicate room for growth. Tax rates, transport access and city conditions affect development. Zoned land still needs suitable services before it can grow."
+msgstr "現在の需要は住宅が%d、商業が%d、工業が%dとなっています。数値がプラスなら成長の余地がありますが、税率、交通アクセス、都市の状況が影響を与えます。用途が指定された土地でも実際に成長するためには適切なインフラが整っている必要があります。"
+
+msgid "Current rendered frames per second"
+msgstr "現在の描画FPS"
+
+msgid "Current simulation speed: %s."
+msgstr "現在のシミュレーションの速さ: %s."
+
+msgid "Current weather: %s."
+msgstr "現在の天気: %s."
+
+msgid "Cut"
+msgstr "カット"
+
+msgid "Cut from All Layers"
+msgstr "全てのレイヤーをカット"
+
+msgid "Cycle colors"
+msgstr "カラーサイクル"
+
+msgid "Darco Arcology"
+msgstr "ダルコ・アルコロジー"
+
+msgid "Dark Theme"
+msgstr "ダーク・テーマ"
+
+msgid "Dark underground view"
+msgstr "地下の表示を暗くする"
+
+msgid "Data"
+msgstr "データ"
+
+msgid "Data pack"
+msgstr "データパック"
+
+msgid "Data view: off"
+msgstr "データビュー: オフ"
+
+msgid "De-zone"
+msgstr "区画の解除"
+
+msgid "Debug"
+msgstr "デバッグ"
+
+msgid "Decimal"
+msgstr "10進数"
+
+msgid "Default"
+msgstr "デフォルト"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Delete Selection"
+msgstr "選択中を削除"
+
+msgid "Delete layer"
+msgstr "レイヤーを削除"
+
+msgid "Demand"
+msgstr "需要"
+
+msgid "Demolish"
+msgstr "取り壊し"
+
+msgid "Dense Commercial"
+msgstr "高密度商業地区"
+
+msgid "Dense Industrial"
+msgstr "高密度工業地区"
+
+msgid "Dense Residential"
+msgstr "高密度住宅地区"
+
+msgid "Deployed %s unit %d of %d."
+msgstr "配置しました。%s ユニット %d の %d."
+
+msgid "Desalinization Plant"
+msgstr "脱塩施設"
+
+msgid "Deselect"
+msgstr "選択解除"
+
+msgid "Destination group"
+msgstr "行先のグループ"
+
+msgid "Development demand in focus"
+msgstr "開発の需要に注目"
+
+msgid "Diamond"
+msgstr "ダイアモンド"
+
+msgid "Difficulty"
+msgstr "難易度"
+
+msgid "Disasters"
+msgstr "災害"
+
+msgid "Dispatch"
+msgstr "派遣"
+
+msgid "Done"
+msgstr "完了"
+
+msgid "Drier weather increases grid capacity."
+msgstr "天候が乾燥すると、送電網の容量が増加する。"
+
+msgid "Duplicate Selection"
+msgstr "選択範囲を複製"
+
+msgid "Earthquake"
+msgstr "地震"
+
+msgid "Easy — $20,000"
+msgstr "イージー — $20,000"
+
+msgid "Edit"
+msgstr "エディット"
+
+msgid "Edit Tools"
+msgstr "エディットツール"
+
+msgid "Editor's Corner"
+msgstr "エディターのコーナー"
+
+msgid "Education"
+msgstr "教育"
+
+msgid "Education graph (e)"
+msgstr "教育のグラフ (e)"
+
+msgid "Electronics"
+msgstr "エレクトロニクス"
+
+msgid "Ellipse"
+msgstr "楕円"
+
+msgid "Enter a new name for the city."
+msgstr "都市に新しい名前を付けてください。"
+
+msgid "Enter sign text..."
+msgstr "標識に文字を入力..."
+
+msgid "Entire City"
+msgstr "都市全域"
+
+msgid "Eraser"
+msgstr "消しゴム"
+
+msgid "Exit"
+msgstr "終了"
+
+msgid "Expenses"
+msgstr "経費"
+
+msgid "Export City as PNG"
+msgstr "都市をPNG画像でエクスポート"
+
+msgid "Export Image"
+msgstr "エクスポートする画像"
+
+msgid "Export Tile Set"
+msgstr "エクスポートするタイルセット"
+
+msgid "Export folder"
+msgstr "エクスポートするフォルダ"
+
+msgid "Export image"
+msgstr "エクスポートする画像"
+
+msgid "Exported a %d by %d city image to %s."
+msgstr "%d を %d の都市の画像%sに保存した。"
+
+msgid "Exporting %s"
+msgstr "%s にエクスポート"
+
+msgid "Exporting the city to %s…"
+msgstr "%sに都市をエクスポート…"
+
+msgid "Extra! Extra!"
+msgstr "号外！号外！"
+
+msgid "Extra!!!"
+msgstr "号外!!!"
+
+msgid "Features"
+msgstr "特徴"
+
+msgid "Fed Rate"
+msgstr "政策金利"
+
+msgid "Fed Rate graph (%)"
+msgstr "政策金利のグラフ (%)"
+
+msgid "Field"
+msgstr "フィールド"
+
+msgid "File"
+msgstr "ファイル"
+
+msgid "File name"
+msgstr "ファイル名"
+
+msgid "Fill"
+msgstr "塗り潰し"
+
+msgid "Filled shapes"
+msgstr "塗り潰された図形"
+
+msgid "Filter tiles"
+msgstr "フィルタータイル"
+
+msgid "Finance"
+msgstr "財政"
+
+msgid "Fire"
+msgstr "消防"
+
+msgid "Fire Station"
+msgstr "消防署"
+
+msgid "Fire coverage scales with funding. Unpowered stations have half strength. Supports emergency fire dispatch."
+msgstr "火災へ対応できる範囲は予算に応じて拡大します。電力供給のない消防署は本来の半分の能力しか発揮できません。緊急時に消防を出動します。"
+
+msgid "Firestorm"
+msgstr "火災旋風"
+
+msgid "Fit canvas"
+msgstr "キャンバスに合わせる"
+
+msgid "Five Cents"
+msgstr "5セント"
+
+msgid "Five Dollars"
+msgstr "5ドル"
+
+msgid "Flood"
+msgstr "洪水"
+
+msgid "Foggy"
+msgstr "濃霧"
+
+msgid "Folder"
+msgstr "フォルダ"
+
+msgid "Food"
+msgstr "食料"
+
+msgid "Footprint: %d x %d tiles"
+msgstr "設置面積: %d x %d タイル"
+
+msgid "Forest"
+msgstr "森"
+
+msgid "Forest Arcology"
+msgstr "フォレスト・アルコロジー"
+
+msgid "Format"
+msgstr "フォーマット"
+
+msgid "Fred's Opinion"
+msgstr "フレッドの意見"
+
+msgid "Free"
+msgstr "フリー"
+
+msgid "From palette index"
+msgstr "パレットインデックスから"
+
+msgid "Fullscreen"
+msgstr "フルスクリーン"
+
+msgid "Funding"
+msgstr "予算配分"
+
+msgid "Fusion Power Plant"
+msgstr "核融合発電所"
+
+msgid "GNP"
+msgstr "GNP"
+
+msgid "GNP graph (g)"
+msgstr "GNPのグラフ (g)"
+
+msgid "GPU (recommended)"
+msgstr "GPU (推奨)"
+
+msgid "Game data"
+msgstr "ゲームデータ"
+
+msgid "Game folder or file"
+msgstr "ゲームのフォルダ、またはファイル"
+
+msgid "Gas Power Plant"
+msgstr "ガス発電所"
+
+msgid "General"
+msgstr "一般"
+
+msgid "Generating terrain..."
+msgstr "地形を生成中..."
+
+msgid "Graph Window"
+msgstr "グラフのウィンドウ"
+
+msgid "Graphics"
+msgstr "グラフィックス"
+
+msgid "Graphics Size"
+msgstr "グラフィックサイズ"
+
+msgid "Graphics pack"
+msgstr "グラフィックスパック"
+
+msgid "Graphs"
+msgstr "グラフ"
+
+msgid "Grid capacity: %s"
+msgstr "電力容量: %s"
+
+msgid "Grid height"
+msgstr "グリッド高度"
+
+msgid "Grid width"
+msgstr "グリッド幅"
+
+msgid "Hard — $10,000 bond at 3%"
+msgstr "ハード — $10,000 の債権（金利3%）"
+
+msgid "Health"
+msgstr "健康"
+
+msgid "Health & welfare"
+msgstr "健康・福祉"
+
+msgid "Health graph (h)"
+msgstr "健康のグラフ (h)"
+
+msgid "Height"
+msgstr "高さ"
+
+msgid "Height Map"
+msgstr "高さのマップ"
+
+msgid "Helicopter Crash"
+msgstr "ヘリの墜落"
+
+msgid "Help"
+msgstr "ヘルプ"
+
+msgid "Herald"
+msgstr "ヘラルド"
+
+msgid "Hex"
+msgstr "16進数"
+
+msgid "Higher land and stronger wind increase grid capacity."
+msgstr "標高が高く、風が強いほど、送電量は増大する。"
+
+msgid "Highlight differences"
+msgstr "違いを強調する"
+
+msgid "Highway"
+msgstr "高速道路"
+
+msgid "Hills"
+msgstr "丘"
+
+msgid "Hospital"
+msgstr "病院"
+
+msgid "Hot"
+msgstr "ホット"
+
+msgid "Hurricane"
+msgstr "ハリケーン"
+
+msgid "Hydroelectric Power Plant"
+msgstr "水力発電所"
+
+msgid "Illustrated"
+msgstr "図解付き"
+
+msgid "Image size"
+msgstr "画像サイズ"
+
+msgid "Import"
+msgstr "インポート"
+
+msgid "Import Assets"
+msgstr "アセットをインポート"
+
+msgid "Import Image"
+msgstr "画像をインポート"
+
+msgid "Import Original Assets"
+msgstr "オリジナルのアセットをインポート"
+
+msgid "Import SimCity 2000 assets"
+msgstr "シムシティ2000のアセットをインポート"
+
+msgid "Import image"
+msgstr "画像をインポート"
+
+msgid "Import only a %s pack from your copy of SimCity 2000."
+msgstr "%s pack をあなたが所有するシムシティ2000らのみインポートしてください。"
+
+msgid "Import your SimCity 2000 game files again to update them. The import keeps your other packs."
+msgstr "シムシティ2000のゲームファイルを再度インポートして、それらをアップデートしてください。インポートを行っても他のパックはそのまま保持されます。"
+
+msgid "Import..."
+msgstr "インポート..."
+
+msgid "In Tax Rates view, drag a bar to set its surcharge. Hold Alt to set all industries."
+msgstr "税率バーをドラッグして税率を決定します。Altキーを押しながらすると全ての産業に同時にセットします。"
+
+msgid "Include"
+msgstr "含む"
+
+msgid "Income"
+msgstr "所得"
+
+msgid "Industrial"
+msgstr "工業"
+
+msgid "Industry"
+msgstr "産業"
+
+msgid "Industry graph (I)"
+msgstr "産業のグラフ (I)"
+
+msgid "Infrastructure"
+msgstr "インフラストラクチャ"
+
+msgid "Isometric guides"
+msgstr "等角投影ガイド"
+
+msgid "Issue $10,000 bond…"
+msgstr "$10,000 の債券を発行する…"
+
+msgid "Issue a $10,000 bond at %d%%?"
+msgstr "$10,000 の債権を %d%%で発行する？"
+
+msgid "Issued a $10,000 bond at %d%%."
+msgstr "$10,000 の債権を %d%%で発行した。"
+
+msgid "Journal"
+msgstr "ジャーナル"
+
+msgid "Just A Dollar"
+msgstr "１ドルきっかり"
+
+msgid "Keep %s"
+msgstr "Keep %s"
+
+msgid "LAND USE"
+msgstr "使用中の土地"
+
+msgid "Land value"
+msgstr "地価"
+
+msgid "Landscape"
+msgstr "地形"
+
+msgid "Language"
+msgstr "言語"
+
+msgid "Large"
+msgstr "ラージ"
+
+msgid "Launch Arcology"
+msgstr "ラウンチ・アルコロジー"
+
+msgid "Layer name"
+msgstr "レイヤー名"
+
+msgid "Layers"
+msgstr "レイヤー"
+
+msgid "Left wall"
+msgstr "Left wall"
+
+msgid "Level Terrain"
+msgstr "地形を均す"
+
+msgid "Library"
+msgstr "図書館"
+
+msgid "Light Commercial"
+msgstr "低密度商業地区"
+
+msgid "Light Industrial"
+msgstr "低密度工業地区"
+
+msgid "Light Residential"
+msgstr "低密度住宅地区"
+
+msgid "Light Theme"
+msgstr "ライト・テーマ"
+
+msgid "Line"
+msgstr "ライン"
+
+msgid "Llama"
+msgstr "ラマ"
+
+msgid "Load Tile Set"
+msgstr "タイルセットを読み込む"
+
+msgid "Loaded %s. Map view: %s."
+msgstr "Loaded %s. Map view: %s."
+
+msgid "Locate"
+msgstr "位置"
+
+msgid "Location"
+msgstr "場所"
+
+msgid "Lock transparent pixels"
+msgstr "透明ピクセルをロック"
+
+msgid "Locked"
+msgstr "ロック中"
+
+msgid "Lower Sea Level"
+msgstr "海面を下げる"
+
+msgid "Lower Terrain"
+msgstr "地形を下げる"
+
+msgid "Magnification"
+msgstr "ズーム"
+
+msgid "Main Menu"
+msgstr "メインメニュー"
+
+msgid "Make a random city name."
+msgstr "都市の名前をランダムに生成."
+
+msgid "Make new terrain with the same settings."
+msgstr "同じ設定で新しい地形を生成."
+
+msgid "Map"
+msgstr "マップ"
+
+msgid "Map Size"
+msgstr "マップサイズ"
+
+msgid "Map view: %s"
+msgstr "マップビュー: %s"
+
+msgid "Marina"
+msgstr "マリーナ"
+
+msgid "Mass Floods"
+msgstr "大洪水"
+
+msgid "Mass Riots"
+msgstr "大暴動"
+
+msgid "Mayor"
+msgstr "市長"
+
+msgid "Mayor Name"
+msgstr "市長名"
+
+msgid "Mayor Name:"
+msgstr "市長名:"
+
+msgid "Mayor name"
+msgstr "市長名"
+
+msgid "Mayor's House"
+msgstr "市長の家"
+
+msgid "Media"
+msgstr "マスコミ"
+
+msgid "Medium"
+msgstr "ミディアム"
+
+msgid "Medium — $10,000"
+msgstr "ミディアム — $10,000"
+
+msgid "Meltdown"
+msgstr "メルトダウン"
+
+msgid "Merely Five Bucks"
+msgstr "たったの5ドル"
+
+msgid "Microwave"
+msgstr "マイクロ波"
+
+msgid "Microwave Power Plant"
+msgstr "マイクロ波発電所"
+
+msgid "Military"
+msgstr "軍事基地"
+
+msgid "MisSim's Advice"
+msgstr "ミス・シムの悩み相談"
+
+msgid "Misc"
+msgstr "その他"
+
+msgid "Mixed rates stay unchanged until you edit the group. History shows recorded and projected months."
+msgstr "グループを編集するまで、混合レートは変更されません。履歴には、実績月と予測月が表示されます。"
+
+msgid "Monster"
+msgstr "モンスター"
+
+msgid "Move layer down"
+msgstr "レイヤーを下に移動する"
+
+msgid "Move layer up"
+msgstr "レイヤーを上に移動する"
+
+msgid "Moving things"
+msgstr "アニメーション"
+
+msgid "Museum"
+msgstr "博物館"
+
+msgid "Music"
+msgstr "音楽"
+
+msgid "Music SoundFont"
+msgstr "サウンドフォント"
+
+msgid "Music pack"
+msgstr "ミュージックパック"
+
+msgid "Must be built on an unused waterfall tile."
+msgstr "何もない滝のタイルの上に建築してください。"
+
+msgid "Nat'n Pop."
+msgstr "人口."
+
+msgid "Nat'n Pop. graph (n)"
+msgstr "人口のグラフ (n)"
+
+msgid "Nat. Pop: %d000"
+msgstr "人口: %d000"
+
+msgid "Neighbors"
+msgstr "隣接都市"
+
+msgid "Networks"
+msgstr "交通網"
+
+msgid "New City"
+msgstr "新しい都市"
+
+msgid "Newspaper"
+msgstr "新聞"
+
+msgid "Newspaper %s %s."
+msgstr "新聞 %s %s."
+
+msgid "Next"
+msgstr "次"
+
+msgid "No"
+msgstr "いいえ"
+
+msgid "No Disasters"
+msgstr "災害なし"
+
+msgid "No Disasters %s."
+msgstr "災害なし %s."
+
+msgid "No age limit"
+msgstr "なし"
+
+msgid "No city loaded"
+msgstr "都市が読み込まれていません"
+
+msgid "Nominal output: %d MW"
+msgstr "公称出力: %d MW"
+
+msgid "None"
+msgstr "None"
+
+msgid "Not yet available."
+msgstr "まだ利用できません。"
+
+msgid "Notes"
+msgstr "注記"
+
+msgid "Nuclear Power Plant"
+msgstr "原子力発電所"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Object Group"
+msgstr "オブジェクトグループ"
+
+msgid "Object Selector"
+msgstr "オブジェクトセレクタ"
+
+msgid "Object details"
+msgstr "オブジェクトの詳細"
+
+msgid "Ocean"
+msgstr "海"
+
+msgid "Off"
+msgstr "オフ"
+
+msgid "Oil Power Plant"
+msgstr "石油発電所"
+
+msgid "On"
+msgstr "オン"
+
+msgid "On-ramp"
+msgstr "ランプ昇降口"
+
+msgid "One Cent"
+msgstr "１セント"
+
+msgid "One Dollar"
+msgstr "1ドル"
+
+msgid "Only A Nickel"
+msgstr "たったの５セント"
+
+msgid "Open"
+msgstr "開く"
+
+msgid "Open City"
+msgstr "都市を開く"
+
+msgid "Open the %s tab"
+msgstr "%s タブを開く"
+
+msgid "OpenSC2K Settings"
+msgstr "OpenSC2Kの設定"
+
+msgid "Opinion"
+msgstr "市民の声"
+
+msgid "Opinion Poll"
+msgstr "世論調査"
+
+msgid "Optional tile name"
+msgstr "タイル名(任意)"
+
+msgid "Options"
+msgstr "オプション"
+
+msgid "Ordinance changes take effect immediately. Cancel does not undo them."
+msgstr "条例の変更は直ちに発効します。変更は取り消せません。"
+
+msgid "Ordinances"
+msgstr "条例"
+
+msgid "Original"
+msgstr "オリジナル"
+
+msgid "Output"
+msgstr "出力"
+
+msgid "Outstanding: %s   ·   Credit: %s   ·   Bank rate: %d%%   ·   Next bond: %d%%   ·   City value: %s"
+msgstr "未払い額: %s   ·   信用: %s   ·   銀行金利: %d%%   ·   次回の債券: %d%%   ·   都市価値: %s"
+
+msgid "Overcast"
+msgstr "くもり"
+
+msgid "Overview"
+msgstr "概要"
+
+msgid "Packs active. Imported %d cities and %d scenarios."
+msgstr "パックが有効です。%d個の都市と%d個のシナリオをインポートしました。"
+
+msgid "Paste"
+msgstr "貼り付け"
+
+msgid "Paste on New Layer"
+msgstr "新しいレイヤーに貼り付け"
+
+msgid "Pause"
+msgstr "一時停止"
+
+msgid "Petrochemical"
+msgstr "石油化学"
+
+msgid "Picayune"
+msgstr "ピカユーン"
+
+msgid "Pipes"
+msgstr "水道管"
+
+msgid "Pixel resolution"
+msgstr "ピクセルの解像度"
+
+msgid "Pixel-perfect pencil"
+msgstr "ピクセルパーフェクトのペンシル"
+
+msgid "Place & Print Work Area"
+msgstr "配置・印刷作業エリア"
+
+msgid "Place Forest"
+msgstr "森林の配置"
+
+msgid "Place Sign"
+msgstr "標識の設置"
+
+msgid "Place Stream"
+msgstr "小川の配置"
+
+msgid "Plane Crash"
+msgstr "飛行機事故"
+
+msgid "Play Scenario"
+msgstr "シナリオをプレイ"
+
+msgid "Play a click sound when you select a toolbar or main menu button."
+msgstr "ツールバーやメインメニューのボタンを選択したときにクリック音を再生します。"
+
+msgid "Play all 19 tracks, including menu and special music, once per shuffle cycle."
+msgstr "メニュー曲やスペシャル楽曲を含む全19曲を、シャッフルサイクルごとに1回ずつ再生します。"
+
+msgid "Play interface sounds"
+msgstr "インターフェース音を再生する"
+
+msgid "Play music and sounds in background"
+msgstr "音楽や効果音をバックグラウンドで再生する"
+
+msgid "Plymouth Arcology"
+msgstr "プリマス・アルコロジー"
+
+msgid "Police"
+msgstr "警察"
+
+msgid "Police Station"
+msgstr "警察署"
+
+msgid "Police coverage scales with funding and the prison bonus. Unpowered stations have half strength. Coverage reduces local crime."
+msgstr "警察の影響範囲は予算と刑務所に応じて拡大します。電力供給のない警察署は効果が半分になります。影響範囲内の地域の犯罪が減少します。"
+
+msgid "Police, fire protection, schools and health services depend on facilities and their funding. The city maps show local coverage. The Budget window lets the mayor review service spending, while Query provides details for individual facilities."
+msgstr "警察、消防、学校、保健などのサービスは施設とその予算に依存しています。都市マップには各サービスの提供範囲が表示されます。予算画面では市長がサービス関連の支出を確認できるほか、個々の施設に関する詳細情報を確認できます。"
+
+msgid "Pollution"
+msgstr "公害"
+
+msgid "Pollution factor: %d"
+msgstr "公害指数: %d"
+
+msgid "Pollution graph (P)"
+msgstr "公害のグラフ (P)"
+
+msgid "Population"
+msgstr "人口"
+
+msgid "Population: %s"
+msgstr "人口: %s"
+
+msgid "Population: --"
+msgstr "人口: --"
+
+msgid "Ports"
+msgstr "港/ 空港"
+
+msgid "Power"
+msgstr "電力"
+
+msgid "Power %"
+msgstr "電力%"
+
+msgid "Power % graph (p)"
+msgstr "電力 % グラフ (p)"
+
+msgid "Power Lines"
+msgstr "電線"
+
+msgid "Power Plants"
+msgstr "発電所"
+
+msgid "Powered"
+msgstr "電力供給"
+
+msgid "Preview in Context..."
+msgstr "都市に配置してプレビュー..."
+
+msgid "Preview in context"
+msgstr "都市に配置してプレビュー"
+
+msgid "Preview size"
+msgstr "サイズのプレビュー"
+
+msgid "Previous"
+msgstr "前へ"
+
+msgid "Price $1"
+msgstr "１ドル"
+
+msgid "Price $5"
+msgstr "５ドル"
+
+msgid "Price 1¢"
+msgstr "１セント"
+
+msgid "Price 25¢"
+msgstr "25セント"
+
+msgid "Price 5¢"
+msgstr "５セント"
+
+msgid "Print City..."
+msgstr "都市の印刷..."
+
+msgid "Print What"
+msgstr "印刷対象"
+
+msgid "Prints of the City"
+msgstr "都市の印刷"
+
+msgid "Prison"
+msgstr "刑務所"
+
+msgid "Prison facilities contribute to the police-strength bonus. Query shows annual prison statistics."
+msgstr "刑務所は警察の範囲に影響します。調査ツールを使うと年間の刑務所の統計が表示されます。"
+
+msgid "Project title"
+msgstr "プロジェクト・タイトル"
+
+msgid "Projected"
+msgstr "予定"
+
+msgid "Property Taxes"
+msgstr "固定資産税"
+
+msgid "Property taxes"
+msgstr "固定資産税"
+
+msgid "Query"
+msgstr "調査"
+
+msgid "Query — %s"
+msgstr "調査 — %s"
+
+msgid "Rail"
+msgstr "線路"
+
+msgid "Rail Depot"
+msgstr "鉄道駅"
+
+msgid "Rain"
+msgstr "雨"
+
+msgid "Raise Sea Level"
+msgstr "海面を上げる"
+
+msgid "Raise Terrain"
+msgstr "地形を上げる"
+
+msgid "Rate: %d%%"
+msgstr "レート: %d%%"
+
+msgid "Ratios"
+msgstr "比率"
+
+msgid "Ready."
+msgstr "準備完了。"
+
+msgid "Recorded months use saved costs and rates. Projected months use the proposed budget."
+msgstr "実績月については、実際に発生したコストおよび料率を使用します。予測月については、提案予算を使用します。"
+
+msgid "Recover Autosave"
+msgstr "オートセーブを復元"
+
+msgid "Recover SCURK project"
+msgstr "SCURK のプロジェクトを復元"
+
+msgid "Recreation"
+msgstr "娯楽施設"
+
+msgid "Recreation facility. Choose the team name after placement. Query shows annual attendance and financial statistics."
+msgstr "娯楽施設。配置後にチーム名を決定します。詳細ツールにより、年間利用人数や財務統計を確認できます。"
+
+msgid "Redo"
+msgstr "やり直し"
+
+msgid "Reduced"
+msgstr "一部"
+
+msgid "Regenerate Terrain"
+msgstr "地形の再生成"
+
+msgid "Removed the last building and restored %d tiles."
+msgstr "最後の建物を撤去し、%d個のタイルを復元しました。"
+
+msgid "Rename"
+msgstr "リネーム"
+
+msgid "Rename City"
+msgstr "都市の名前を付けなおす"
+
+msgid "Rename Tile"
+msgstr "タイルの名前を付けなおす"
+
+msgid "Renderer"
+msgstr "レンダー"
+
+msgid "Repaid the oldest $10,000 bond at %d%%."
+msgstr "最も古い1万ドルの債券を利率%d%%で償還した。"
+
+msgid "Repay oldest bond…"
+msgstr "最も古い債券を償還する…"
+
+msgid "Repay the oldest $10,000 bond at %d%%?"
+msgstr "最も古い1万ドルの債券を%d%%で償還しますか？"
+
+msgid "Replace Color"
+msgstr "色の置き換え"
+
+msgid "Replace color"
+msgstr "色の置き換え"
+
+msgid "Requires power and pipes. Each adjacent salt-water tile adds 20 supply units. Coastal placement improves output."
+msgstr "電力と水道管が必要です。隣接する海水タイル1マスにつき供給ユニットが20増加します。沿岸に設置すると生産量が増加します。"
+
+msgid "Requires power and pipes. Output depends on weather and nearby water; each adjacent fresh-water tile adds 10 supply units."
+msgstr "電力と水道管が必要です。出力は天気や周辺の水域に左右されます。隣接する淡水タイル1マスにつき供給ユニットが10増加します。"
+
+msgid "Reset Controls"
+msgstr "コントロールをリセット"
+
+msgid "Reset all controls?"
+msgstr "全てのコントロールをリセットしますか？"
+
+msgid "Resident Age"
+msgstr "住民の年齢"
+
+msgid "Residential"
+msgstr "住宅"
+
+msgid "Residents"
+msgstr "住宅"
+
+msgid "Residents are concerned about %s. The mayor can review current city conditions in the graphs and city maps."
+msgstr "住民は%sについて懸念を抱いています。市長はグラフや都市のマップで現在の都市の状況を確認できます。"
+
+msgid "Residents graph (R)"
+msgstr "住人のグラフ (R)"
+
+msgid "Restore Original Tile Set"
+msgstr "オリジナルのタイルセットを復元"
+
+msgid "Restored %d demolished tiles and the previous funds value."
+msgstr "破壊されたタイル %d と直前の資金額を元に戻しました。"
+
+msgid "Restored %d landscape actions and the previous funds value."
+msgstr "直前の地形操作%d と直前の資金額を元に戻しました。"
+
+msgid "Restored %d terrain tiles and the previous funds value."
+msgstr "地形タイル%d枚と以前の資金の値を復元しました。"
+
+msgid "Restored %d tiles and the previous funds value."
+msgstr "%dタイルと以前の資金を復元しました。"
+
+msgid "Restored the previous highway route across %d tiles."
+msgstr "%dタイルにわたって、以前の高速道路ルートを復元しました。"
+
+msgid "Restored the previous route across %d tiles."
+msgstr "%dタイルにわたる以前のルートを復元しました。"
+
+msgid "Return every keyboard and mouse binding to its default"
+msgstr "キーボードとマウスのすべての割り当てをデフォルトに戻す"
+
+msgid "Revert Object"
+msgstr "オブジェクトを元に戻す"
+
+msgid "Revert name"
+msgstr "名前を元に戻す"
+
+msgid "Review income, services and the year-end forecast."
+msgstr "所得、公共サービス、および年末の財政見通しを検討します。"
+
+msgid "Rewards"
+msgstr "プレゼント"
+
+msgid "Right wall"
+msgstr "Right wall"
+
+msgid "Riot"
+msgstr "暴動"
+
+msgid "River"
+msgstr "川"
+
+msgid "Road"
+msgstr "道路"
+
+msgid "Roads"
+msgstr "交通"
+
+msgid "Roads & transit"
+msgstr "道路・交通"
+
+msgid "Roads, rail and subway routes connect neighborhoods with jobs. Gaps and disconnected stations can prevent trips. The City Map transport views show where the network is busy and where better connections may help."
+msgstr "道路、鉄道、地下鉄の交通網は地域と職場を結びつけています。しかし通行の途切れや駅同士の接続の悪さは移動の妨げとなります。都市のマップの交通表示機能では、交通網の混雑状況やより良い接続が求められる箇所を確認できます。"
+
+msgid "Rotate Clockwise"
+msgstr "時計回りに回転"
+
+msgid "Rotate Counter-Clockwise"
+msgstr "反時計回りに回転"
+
+msgid "Round"
+msgstr "丸"
+
+msgid "Round brush"
+msgstr "丸筆"
+
+msgid "Run the game in full screen mode when enabled, otherwise run in a resizable window."
+msgstr "有効な場合はゲームをフルスクリーンモードで実行し、それ以外の場合はサイズ変更可能なウィンドウで実行します。"
+
+msgid "SCURK Place & Print"
+msgstr "SCURKプレイス＆プリント"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Save As"
+msgstr "名前を付けて保存"
+
+msgid "Save City"
+msgstr "都市を保存"
+
+msgid "Save City As"
+msgstr "都市に名前を付けて保存"
+
+msgid "Save Printable PDF..."
+msgstr "印刷可能なPDFを保存..."
+
+msgid "Save SCURK project"
+msgstr "SCURKのプロジェクトを保存"
+
+msgid "Save selection"
+msgstr "選択範囲を保存"
+
+msgid "Save tile set"
+msgstr "タイルセットを保存"
+
+msgid "Saved city: %s"
+msgstr "都市を保存: %s"
+
+msgid "Saved reports are unavailable."
+msgstr "保存済みのレポートは利用できません。"
+
+msgid "Saving city: %s"
+msgstr "都市の保存中: %s"
+
+msgid "Scenario"
+msgstr "シナリオ"
+
+msgid "Scenario Goals"
+msgstr "シナリオの目標"
+
+msgid "School"
+msgstr "学校"
+
+msgid "Seaport"
+msgstr "港"
+
+msgid "Select %s"
+msgstr "%s 選択"
+
+msgid "Select %s pack.json"
+msgstr "選択 %s pack.json"
+
+msgid "Select All"
+msgstr "全て選択"
+
+msgid "Select Bridge"
+msgstr "橋の選択"
+
+msgid "Select Building"
+msgstr "建築の選択"
+
+msgid "Select Stadium Team"
+msgstr "スタジアムのチームを選ぶ"
+
+msgid "Select Tile"
+msgstr "タイルを選択"
+
+msgid "Select a SoundFont"
+msgstr "サウンドフォントを選ぶ"
+
+msgid "Select a bridge for %d %s."
+msgstr "%d %sの橋を選ぶ。"
+
+msgid "Select a bridge type."
+msgstr "橋のタイプを選ぶ。"
+
+msgid "Select a building type."
+msgstr "建築のタイプを選ぶ。"
+
+msgid "Select an object."
+msgstr "オブジェクトを選ぶ。"
+
+msgid "Select an unused team and edit its name."
+msgstr "使用されていないチームを選択し、その名前を編集してください。"
+
+msgid "Select the print options."
+msgstr "プリントのオプションを選ぶ。"
+
+msgid "Selected Group"
+msgstr "グループを選択"
+
+msgid "Selected Pages"
+msgstr "ページのセレクト"
+
+msgid "Service life: %s"
+msgstr "耐用年数: %s"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "Settings applied, but the settings file could not be saved."
+msgstr "設定は適用されましたが、設定ファイルを保存できませんでした。"
+
+msgid "Settings saved."
+msgstr "設定が保存されました。"
+
+msgid "Show Buildings"
+msgstr "建物を表示"
+
+msgid "Show Networks"
+msgstr "交通網を表示"
+
+msgid "Show Pipes"
+msgstr "水道管を表示"
+
+msgid "Show Scenario Goals"
+msgstr "シナリオの目標を表示"
+
+msgid "Show Signs"
+msgstr "看板を表示"
+
+msgid "Show Subways"
+msgstr "地下鉄を表示"
+
+msgid "Show Trees"
+msgstr "木を表示"
+
+msgid "Show Tunnels"
+msgstr "トンネルを表示"
+
+msgid "Show Vehicles"
+msgstr "車を表示"
+
+msgid "Show Water"
+msgstr "水を表示"
+
+msgid "Show Water Mains"
+msgstr "配水管を表示"
+
+msgid "Show all views"
+msgstr "全てを表示"
+
+msgid "Show clip region"
+msgstr "切り抜き範囲を表示"
+
+msgid "Show differences only"
+msgstr "差異のみを表示"
+
+msgid "Show grid"
+msgstr "電線を表示"
+
+msgid "Show individual tax and funding rates"
+msgstr "個別の税率と予算の比率の表示"
+
+msgid "Show monthly history for %s"
+msgstr "%s 月別明細を表示"
+
+msgid "Show or hide airplanes, helicopters, ships, boats and trains. Hidden vehicles make no sound and cannot crash."
+msgstr "飛行機、ヘリコプター、船舶、列車を表示または非表示にします。非表示にした乗り物は音を出したり事故を起こしたりすることはありません。"
+
+msgid "Show or hide buildings in the city view."
+msgstr "都市の建物を表示または非表示にします。"
+
+msgid "Show or hide networks in the city view."
+msgstr "道路、鉄道、電線を表示または非表示にします。"
+
+msgid "Show or hide pipes beneath buildings in the underground view."
+msgstr "建物の下の水道管を表示または非表示にします。"
+
+msgid "Show or hide road tunnels in the underground view."
+msgstr "トンネルを表示または非表示にします。"
+
+msgid "Show or hide signs in the city view."
+msgstr "都市の標識を表示または非表示にします。"
+
+msgid "Show or hide subways in the underground view."
+msgstr "地下鉄を表示または非表示にします。"
+
+msgid "Show or hide trees in the city view."
+msgstr "都市の木を表示または非表示にします。"
+
+msgid "Show or hide water in the city view."
+msgstr "都市の水を表示または非表示にします。"
+
+msgid "Show or hide water mains in the underground view."
+msgstr "地下の水道本管を表示または非表示にします。"
+
+msgid "Show terrain"
+msgstr "地形を表示"
+
+msgid "Show terrain height and transparent water."
+msgstr "地形の高さと透明な水を表示します。"
+
+msgid "Show the city isometric view."
+msgstr "都市を立体的な等角投影画面で表示します。"
+
+msgid "Show the underground isometric view."
+msgstr "地下を立体的な等角投影画面で表示します。"
+
+msgid "Shuffle all music"
+msgstr "全ての音楽をシャッフル"
+
+msgid "Sign saved as label %d."
+msgstr "標識を%d番として保存しました。"
+
+msgid "Signs"
+msgstr "標識"
+
+msgid "SimNation"
+msgstr "シムネーション"
+
+msgid "Simulation stopped: %s"
+msgstr "シミュレーション停止: %s"
+
+msgid "Size"
+msgstr "サイズ"
+
+msgid "Size of menus, windows, and text. 2.0 is the standard size. Smaller values show more of the city. The city map keeps its own sharp pixel size."
+msgstr "メニュー、ウィンドウ、文字のサイズです。デフォルト値は2.0で、小さく設定すると都市をより広く見ることができます。都市マップの拡大率はこれとは別に保持されます。"
+
+msgid "Small"
+msgstr "スモール"
+
+msgid "Small Park"
+msgstr "公園"
+
+msgid "Snap lines"
+msgstr "線に沿わせる"
+
+msgid "Snap shapes"
+msgstr "縁にスナップする"
+
+msgid "Snow"
+msgstr "雪"
+
+msgid "Solar Power Plant"
+msgstr "太陽光発電"
+
+msgid "Sound Effects"
+msgstr "効果音"
+
+msgid "Sound pack"
+msgstr "サウンドパック"
+
+msgid "Sounds"
+msgstr "サウンド"
+
+msgid "Spacing"
+msgstr "間隔"
+
+msgid "Spacing (pixels)"
+msgstr "間隔(ピクセル)"
+
+msgid "Special"
+msgstr "スペシャル"
+
+msgid "Speed"
+msgstr "スピード"
+
+msgid "Speed: %s"
+msgstr "スピード: %s"
+
+msgid "Speed: --"
+msgstr "スピード: --"
+
+msgid "Square"
+msgstr "四角"
+
+msgid "Stadium"
+msgstr "スタジアム"
+
+msgid "Stamp name"
+msgstr "スタンプ名"
+
+msgid "Start City"
+msgstr "都市を始める"
+
+msgid "Start New City"
+msgstr "新しい都市を始める"
+
+msgid "Starting Year"
+msgstr "開始年"
+
+msgid "Statue"
+msgstr "銅像"
+
+msgid "Status: Not available in this city."
+msgstr "状態：この都市では利用できません。"
+
+msgid "Steel/Mining"
+msgstr "鉄鋼・鉱業"
+
+msgid "Still A Quarter"
+msgstr "まだ25セント"
+
+msgid "Stores 100 water units per tower tile. Stores surplus supply and releases stored water when needed. Requires a pipe connection."
+msgstr "給水塔はタイル1マスにつき100ユニット分の水を貯蔵します。余った水を蓄えて必要な時に供給します。水道管の接続が必要です。"
+
+msgid "Stretch Terrain"
+msgstr "地形を引っ張る"
+
+msgid "Subscription"
+msgstr "定期購読"
+
+msgid "Subway"
+msgstr "地下鉄"
+
+msgid "Subway Station"
+msgstr "地下鉄駅"
+
+msgid "Subway-to-Rail Connection"
+msgstr "地下鉄と鉄道の接続"
+
+msgid "Subways"
+msgstr "地下鉄"
+
+msgid "Supports education and city services. Query shows the annual museum statistic."
+msgstr "教育および公共サービスをサポートします。詳細ツールで年間の博物館統計を確認できます。"
+
+msgid "Supports education. Query shows its annual education statistic. Ruminate opens the library reports."
+msgstr "教育をサポートします。詳細ツールから年間の教育統計を確認し、図書館のレポートを開くことができます。"
+
+msgid "Survey"
+msgstr "世論調査"
+
+msgid "Tax Rates"
+msgstr "税率"
+
+msgid "Taxes"
+msgstr "税金"
+
+msgid "Team name"
+msgstr "チームの名前"
+
+msgid "Technical details"
+msgstr "技術詳細"
+
+msgid "Terrain"
+msgstr "地形"
+
+msgid "Terrain Preview"
+msgstr "地形のプレビュー"
+
+msgid "Text"
+msgstr "テキスト"
+
+msgid "Textiles"
+msgstr "繊維"
+
+msgid "Textures"
+msgstr "テクスチャ"
+
+msgid "The Nuclear-Free ordinance disables this plant."
+msgstr "非核都市宣言が施行中の場合はこの発電所を新たに建設することはできません。"
+
+msgid "The city treasury holds $%d. Construction draws from this balance, while taxes and service spending affect the annual budget. The Budget window contains current funding levels and projected totals."
+msgstr "都市の財政残高は$%dです。建設費はこの残高から支払われ、税収や公共サービスへの支出は年間予算に影響を与えます。予算画面で現在の財源と予想総額を確認できます。"
+
+msgid "The first year of the city. The year sets the buildings and inventions that you can use."
+msgstr "都市を開始する年です。利用可能な建物や技術は開始年によって異なります。"
+
+msgid "The mayor name for new cities."
+msgstr "新しい都市で使用する市長の名前です。"
+
+msgid "The money at the start. Difficulty also sets the national economy."
+msgstr "開始資金です。難易度は都市の経済にも影響を与えます。"
+
+msgid "The name of the city."
+msgstr "都市の名前."
+
+msgid "The name of the mayor."
+msgstr "市長の名前."
+
+msgid "The volume of the music."
+msgstr "音楽の音量."
+
+msgid "The volume of the sound effects."
+msgstr "効果音の音量."
+
+msgid "Theme"
+msgstr "テーマ"
+
+msgid ""
+"These imported packs are missing or out of date: %s.\n"
+"\n"
+msgstr ""
+"次のパックがないか、古いバージョンです: %s\n"
+"\n"
+
+msgid "This plant becomes available after its invention."
+msgstr "この施設は発明された後に利用可能となります。"
+
+msgid "Tile Inspector"
+msgstr "タイル検査"
+
+msgid "Tile name"
+msgstr "タイル名"
+
+msgid "Time Scale"
+msgstr "タイムスケール"
+
+msgid "Times"
+msgstr "ニュース"
+
+msgid "To palette index"
+msgstr "パレットインデックスへ"
+
+msgid "Today's Weather"
+msgstr "今日の天気"
+
+msgid "Tornado"
+msgstr "竜巻"
+
+msgid "Total"
+msgstr "合計"
+
+msgid "Tourism"
+msgstr "観光"
+
+msgid "Toxic Spill"
+msgstr "有害物質の流出"
+
+msgid "Traffic"
+msgstr "交通量"
+
+msgid "Traffic graph (T)"
+msgstr "交通量のグラフ (T)"
+
+msgid "Translucent interface"
+msgstr "半透明インターフェース"
+
+msgid "Transportation"
+msgstr "交通機関"
+
+msgid "Treasury"
+msgstr "市の財政"
+
+msgid "Treasury reports $%d"
+msgstr "財務報告 $%d"
+
+msgid "Treats 2,000 watered consumers per plant. Sufficient treatment improves the pollution calculation. It does not generate water."
+msgstr "１施設あたり2,000ユニット分の下水を処理します。十分な処理能力は公害を低減しますが、水そのものを生成するわけではありません。"
+
+msgid "Trees"
+msgstr "樹木"
+
+msgid "Trip Query"
+msgstr "通行経路の詳細"
+
+msgid "Tunnel"
+msgstr "トンネル"
+
+msgid "Tunnels"
+msgstr "トンネル"
+
+msgid "Tunnels %s."
+msgstr "トンネル %s."
+
+msgid "Turn to pg %d for the full column"
+msgstr "コラムの全文は%dページをご覧ください"
+
+msgid "Turn to pg %d for the full forecast"
+msgstr "詳しい予報は%d面で"
+
+msgid "Turn to pg %d for the full story"
+msgstr "記事全文は%dページ"
+
+msgid "Turtle"
+msgstr "カメ"
+
+msgid "Twenty-Five Cents"
+msgstr "25セント"
+
+msgid "UI scale"
+msgstr "インターフェースのサイズ"
+
+msgid "Unavailable"
+msgstr "利用不可"
+
+msgid "Underground"
+msgstr "地下"
+
+msgid "Underground View"
+msgstr "地下画面"
+
+msgid "Underground pipes %s."
+msgstr "地下の水道管 %s."
+
+msgid "Underground subways %s."
+msgstr "地下の鉄道 %s."
+
+msgid "Undo"
+msgstr "元に戻す"
+
+msgid "Unemployment"
+msgstr "失業率"
+
+msgid "Unemployment graph (u)"
+msgstr "失業率のグラフ (u)"
+
+msgid "Unsaved SCURK changes"
+msgstr "SCURKの変更を保存しない"
+
+msgid "Use Defaults"
+msgstr "デフォルトを使う"
+
+msgid "Use cool slate colors, clean greens, and softer shading while keeping the original shapes."
+msgstr "元の形状を維持しつつ、高解像度のイラストと滑らかな明暗を適用します。"
+
+msgid "Use light or dark colors for menus and windows."
+msgstr "メニューやウィンドウに明るいテーマまたは暗いテーマを使用します。"
+
+msgid "Use this budget automatically next year"
+msgstr "来年以降この予算を自動的に適用する"
+
+msgid "Use this renderer now and for new cities. If GPU setup fails, use the CPU renderer."
+msgstr "既存の都市および新しい都市で使用するレンダラーです。GPUの初期化に失敗した場合はCPUを使用します。"
+
+msgid "Use translucent backgrounds with a frosted glass effect."
+msgstr "背景に半透明ガラス効果を適用します。"
+
+msgid "Value"
+msgstr "地価"
+
+msgid "Value graph (V)"
+msgstr "地価のグラフ (V)"
+
+msgid "Varies with altitude and wind"
+msgstr "高度や風によって異なる"
+
+msgid "Vehicles"
+msgstr "車両"
+
+msgid "Vehicles %s."
+msgstr "車両 %s."
+
+msgid "View"
+msgstr "ビュー"
+
+msgid "View layers"
+msgstr "ビューレイヤー"
+
+msgid "Visible Layers"
+msgstr "レイヤー表示"
+
+msgid "Volcano"
+msgstr "火山"
+
+msgid "Water"
+msgstr "水"
+
+msgid "Water %"
+msgstr "水 %"
+
+msgid "Water % graph (w)"
+msgstr "給水量余裕率のグラフ (w)"
+
+msgid "Water Pipes"
+msgstr "水道管"
+
+msgid "Water Pump"
+msgstr "給水ポンプ"
+
+msgid "Water Tower"
+msgstr "貯水塔"
+
+msgid "Water Treatment Plant"
+msgstr "下水処理場"
+
+msgid "Water mains"
+msgstr "水道本管"
+
+msgid "Water mains %s."
+msgstr "水道本管 %s."
+
+msgid "Water: %s tiles   Trees: %s tiles   Height: %s–%s"
+msgstr "水：%sタイル　木：%sタイル　高さ：%s–%s"
+
+msgid "Watered"
+msgstr "給水あり"
+
+msgid "Weather"
+msgstr "天気"
+
+msgid "Weather Corner"
+msgstr "お天気コーナー"
+
+msgid "Weather Forecast"
+msgstr "週間天気予報"
+
+msgid "Weather Report"
+msgstr "天気予報"
+
+msgid "Weather Talk"
+msgstr "お天気トーク"
+
+msgid "Weather with Merle"
+msgstr "マールの天気予報"
+
+msgid "Weather: %s"
+msgstr "天気: %s"
+
+msgid "Weather: --"
+msgstr "天気: --"
+
+msgid "Width"
+msgstr "幅"
+
+msgid "Wind Power Plant"
+msgstr "風力発電所"
+
+msgid "Windows"
+msgstr "ウインドウ"
+
+msgid "Windy"
+msgstr "強風"
+
+msgid "Work Force %% = %d"
+msgstr "労働人口比率 %% = %d"
+
+msgid "Work Force EQ = %d"
+msgstr "労働人口教育指数 = %d"
+
+msgid "Work Force LE = %d"
+msgstr "労働人口の平均寿命 = %d"
+
+msgid "Workspace"
+msgstr "ワークスペース"
+
+msgid "X offset"
+msgstr "X オフセット"
+
+msgid "Y offset"
+msgstr "Y オフセット"
+
+msgid "Yes"
+msgstr "はい"
+
+msgid "Zones"
+msgstr "区画"
+
+msgid "Zoo"
+msgstr "動物園"
+
+msgid "Zoom In (E / +)"
+msgstr "拡大 (E / +)"
+
+msgid "Zoom Out (Q / -)"
+msgstr "縮小 (Q / -)"
+
+msgid "Zoom: %d%%"
+msgstr "ズーム: %d%%"
+
+msgid "Zoom: 100%"
+msgstr "ズーム: 100%"
+
+msgid "crime"
+msgstr "犯罪"
+
+msgid "data"
+msgstr "データ"
+
+msgid "disabled"
+msgstr "使用しない"
+
+msgid "education"
+msgstr "教育"
+
+msgid "enabled"
+msgstr "使用する"
+
+msgid "extra editions"
+msgstr "号外"
+
+msgid "graphics"
+msgstr "グラフィック"
+
+msgid "health"
+msgstr "健康"
+
+msgid "hidden"
+msgstr "非表示"
+
+msgid "music"
+msgstr "音楽"
+
+msgid "pollution"
+msgstr "公害"
+
+msgid "shown"
+msgstr "表示"
+
+msgid "sound"
+msgstr "効果音"
+
+msgid "subscription"
+msgstr "定期購読"
+
+msgid "taxes"
+msgstr "税金"
+
+msgid "tile"
+msgstr "タイル"
+
+msgid "tiles"
+msgstr "タイル"
+
+msgid "traffic"
+msgstr "交通量"
+
+msgid "unemployment"
+msgstr "失業率"
+
+msgid "water tile"
+msgstr "水タイル"
+
+msgid "water tiles"
+msgstr "水タイル"
+
+msgctxt "budget"
+msgid "Police"
+msgstr "警察署"
+
+msgctxt "budget"
+msgid "Fire"
+msgstr "消防署"
+
+msgctxt "budget"
+msgid "Health"
+msgstr "健康・福祉"
+
+msgid "A neighborhood watch program would take a bite out of crime."
+msgstr "自警団は犯罪の発生を少しでも減らすことができます。"
+
+msgid "A public smoking ban would benefit everyone."
+msgstr "公共の場での喫煙禁止はみんなの利益になります。"
+
+msgid "Annual Budget"
+msgstr "年間予算"
+
+msgid "Annual interest"
+msgstr "年間利息"
+
+msgid "April"
+msgstr "４月"
+
+msgid "Ask the bond advisor"
+msgstr "債権アドバイザーに相談"
+
+msgid "August"
+msgstr "８月"
+
+msgid "Bridge"
+msgstr "橋梁"
+
+msgid "Category"
+msgstr "カテゴリ"
+
+msgid "Crime is out of control.  We need more police stations."
+msgstr "犯罪抑制が困難です。警察署をもっと建設してください。"
+
+msgid "Current funds"
+msgstr "現在の資金"
+
+msgid "Current health care is adequate to our needs."
+msgstr "現在の保健サービスは、都市の需要に対して十分です。"
+
+msgid "Cut back on City Services to cover the budget deficit."
+msgstr "予算の赤字を解消するため、公共サービスを縮小する必要があります。"
+
+msgid "Cut back on services until our funds increase."
+msgstr "資金が増えるまで、都市のサービスを減らす必要があります。"
+
+msgid "December"
+msgstr "12月"
+
+msgid "Educational services are adequate to our city's need."
+msgstr "教育サービスは都市の住民に適切に提供されています。"
+
+msgid "February"
+msgstr "２月"
+
+msgid "Funds after settlement"
+msgstr "決算後の資金"
+
+msgid "General CPR training will assuredly save lives."
+msgstr "心肺蘇生法（CPR）の教育は命を救うことができます。"
+
+msgid "Hospital services are trim, efficient and responsive."
+msgstr "病院は効果的かつ迅速なサービスを提供しています。"
+
+msgid "I have no advice at this time."
+msgstr "今は助言することはありません。"
+
+msgid "I'm proud to report that crime is at an all time low."
+msgstr "犯罪の発生が少ないという報告ができることを嬉しく思います。"
+
+msgid "Interest"
+msgstr "利子"
+
+msgid "Interest rate"
+msgstr "金利"
+
+msgid "Issue Bond"
+msgstr "債権発行"
+
+msgid "January"
+msgstr "１月"
+
+msgid "July"
+msgstr "７月"
+
+msgid "June"
+msgstr "６月"
+
+msgid "Legalized Gambling has attracted an upleasant element."
+msgstr "ギャンブルの合法化は犯罪を誘発する原因になります。"
+
+msgid "Let's raise taxes to increase total funds."
+msgstr "総資金を増やすために税金を引き上げる必要があります。"
+
+msgid "March"
+msgstr "３月"
+
+msgid "May"
+msgstr "５月"
+
+msgid "Mixed"
+msgstr "混合"
+
+msgid "Mixed rates"
+msgstr "個別税率"
+
+msgid "Month"
+msgstr "月"
+
+msgid "Monthly history"
+msgstr "月別内訳"
+
+msgid "November"
+msgstr "11月"
+
+msgid "October"
+msgstr "10月"
+
+msgid "Ordinance income and costs"
+msgstr "条例に基づく収入および費用"
+
+msgid "Our crime rate is comparable to the national average."
+msgstr "わが市の犯罪発生率は他所と比べて平均的です。"
+
+msgid "Our fire coverage is excellent."
+msgstr "消防の体制は万全です。"
+
+msgid "Our fire response is adequate."
+msgstr "消防の体制は妥当です。"
+
+msgid "Principal"
+msgstr "元金"
+
+msgid "Projected annual flow"
+msgstr "年間予想収支"
+
+msgid "Rate"
+msgstr "税率"
+
+msgid "Rate / funding"
+msgstr "税率／予算比率"
+
+msgid "Rates are good right now.  Float a bond to take advantage."
+msgstr "現在の金利条件は良好です、債務を増やして活用しましょう。"
+
+msgid "Recorded"
+msgstr "確定"
+
+msgid "Repay Bond"
+msgstr "債権の返済"
+
+msgid "Review income, service funding and the year-end forecast."
+msgstr "収入、公共サービス予算、および年末の見通しを検討してください。"
+
+msgid "Review last year’s totals."
+msgstr "昨年の決算を検討してください。"
+
+msgid "Running total"
+msgstr "累計"
+
+msgid "September"
+msgstr "９月"
+
+msgid "Status"
+msgstr "状態"
+
+msgid "The people are asking for a pollution ordinance."
+msgstr "市民は公害防止の条例を求めています。"
+
+msgid "The power plants are overworked.  Let's push energy conservation."
+msgstr "電力が不足しています。省エネ運動を実施しましょう。"
+
+msgid "The transit lanes are inadequate.  Float a bond and build more."
+msgstr "交通施設が不足している、債権を増やしてでももっと多く建設するべきです。"
+
+msgid "These outstanding bonds are killing us.  Raise taxes to pay them off."
+msgstr "税金を引き上げてでも借金を清算しなければ、都市は発展しません。"
+
+msgid "This city needs more firemen."
+msgstr "この都市はより多くの消防士を必要としています。"
+
+msgid "We could use more hospitals."
+msgstr "病院がもっと必要です。"
+
+msgid "We have too many roads.  Remove some to save on maintenance."
+msgstr "道路が多すぎます。不要な道路をなくして維持費を削減してください。"
+
+msgid "We need an Anti-Drug campaign to help our kids."
+msgstr "子供たちのために麻薬撲滅キャンペーンが必要です。"
+
+msgid "We need more adequately funded colleges."
+msgstr "十分な予算を割り当てた大学がさらに必要です。"
+
+msgid "We need more adequately funded grade schools."
+msgstr "十分な予算を割り当てた学校がさらに必要です。"
+
+msgid "We should float a bond to pay for city expansion."
+msgstr "都市開発資金を調達するために債権を増やす必要があります。"
+
+msgid "While expensive, Free Clinics will make you popular."
+msgstr "クリニックは費用がかかりますが、人気は高まるでしょう。"
+
+msgid "YOU CAN'T CUT BACK ON FUNDING!  YOU WILL REGRET THIS!"
+msgstr "予算を削減などするな！後悔するぞ！"
+
+msgid "Year to date"
+msgstr "今年度累計"
+
+msgid "Year-end cash flow"
+msgstr "年末の収支"
+
+msgid "Year-end estimate"
+msgstr "年末の予想"
+
+msgid "Year-end funds"
+msgstr "年末の予想資金"
+
+msgid "You should drop the 1% income tax to give Residents a break."
+msgstr "住民の負担を軽減するために、1%の所得税を廃止すべきだ。"
+
+msgid "You should drop the 1% sales tax to give Commerce a break."
+msgstr "商業部門の負担を軽減するために、1%の売上税を廃止すべきだ。"
+
+msgid "You should lower taxes to encourage growth."
+msgstr "都市の成長を促進するために、税金を下げる必要があります。"
+
+msgid "{city} · {month} {year}"
+msgstr "{city} · {month} {year}"
+
+msgid "Cannot build here: %s"
+msgstr "ここには建築できない: %s"
+
+msgid "Clear the existing structure first."
+msgstr "先に既存の施設を撤去してください。"
+
+msgid "Hydroelectric power requires a waterfall tile."
+msgstr "水力発電所は滝のタイルに建設しなければなりません。"
+
+msgid "Insufficient funds for this tunnel."
+msgstr "このトンネルを建設するための資金が不足しています。"
+
+msgid "Insufficient funds."
+msgstr "資金が不足しています。"
+
+msgid "Select a tile inside the map."
+msgstr "マップ内のタイルを選択してください。"
+
+msgid "The 2 by 2 highway section extends outside the map."
+msgstr "2×2マスの高速道路区間が、マップの外まで伸びます。"
+
+msgid "The object footprint extends outside the map."
+msgstr "施設用地が地図の外にはみ出します。"
+
+msgid "Raised Wires"
+msgstr "水上電線"
+
+msgid "Rail Bridge"
+msgstr "鉄橋"
+
+msgid "Causeway"
+msgstr "土手道"
+
+msgid "Raising Bridge"
+msgstr "橋"
+
+msgid "Suspension Bridge"
+msgstr "吊り橋"
+
+msgid "Highway Bridge"
+msgstr "高速道路の橋"
+
+msgid "Reinforced Bridge"
+msgstr "補強された橋"
+
+msgid "Unknown Bridge"
+msgstr "不明な橋"
+
+msgid "Meandering River"
+msgstr "うねる川"
+
+msgid "River Delta"
+msgstr "三角州"
+
+msgid "Peninsula"
+msgstr "半島"
+
+msgid "Intersecting rivers"
+msgstr "交差する川"
+
+msgid "Forked River"
+msgstr "二又に分かれる川"
+
+msgid "Split and rejoin river"
+msgstr "別れてから合流する川"
+
+msgid "Ocean bay"
+msgstr "入り江"
+
+msgid "Single Island"
+msgstr "一つの島"
+
+msgid "Two islands"
+msgstr "二つの島"
+
+msgid "Plateau"
+msgstr "高原"
+
+msgid "Mountain Ridge"
+msgstr "尾根"
+
+msgid "River Valley"
+msgstr "川の渓谷"
+
+msgid "Rolling Hills"
+msgstr "丘陵地形"
+
+msgid "Basin"
+msgstr "盆地"
+
+msgid "Canyon"
+msgstr "峡谷"
+
+msgid "Coastal Cliffs"
+msgstr "海岸の断崖"
+
+msgid "Single Lake"
+msgstr "一つの湖"
+
+msgid "Two Lakes"
+msgstr "二つの湖"
+
+msgid "Maintain SimCity 2000 Compatibility"
+msgstr "シムシティ2000の互換性維持"
+
+msgid "Hold the right mouse button to hide this dialog."
+msgstr "マウスの右ボタンを押し続けている間、このウィンドウを隠します。"
+
+msgid ""
+"This patch requires complete imported graphics, game data, sound and music.\n"
+"\n"
+"%s\n"
+"\n"
+"Choose OK to import your original game resources."
+msgstr ""
+"このパッチを実行するには、オリジナルゲームのグラフィック、ゲームデータ、効果音、音楽をすべて取り込む必要があります。\n"
+"\n"
+"%s\n"
+"\n"
+"OKを押すと、オリジナルデータの取り込み画面が開きます。"
+
+msgid "NEWSPAPER"
+msgstr "新聞"
+
+msgid "Zoom: %s%%"
+msgstr "ズーム: %s%%"
+
+msgid "HD sprite"
+msgstr "HDスプライト"
+
+msgid "HD sprite pack"
+msgstr "HDスプライトパック"
+
+msgid "The language of menus and windows. Original game text, such as newspapers, uses the language of the imported game."
+msgstr "メニューやウィンドウの言語です。新聞などのゲーム内のテキストは、読み込まれたゲームの言語が使用されます。"
+
+msgid "The pack.json file of an HD sprite pack. It replaces the look of the city sprites with full-color art. The GPU renderer shows it. Leave this empty to show the sprites of the graphics pack."
+msgstr "HDスプライトパックのpack.jsonファイルです。都市のスプライトをフルカラーの画像に置き換えて表示します。GPUレンダラーでのみ表示されます。何も指定しない場合は、グラフィックパックのスプライトが表示されます。"
