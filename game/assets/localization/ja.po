@@ -146,7 +146,7 @@ msgid "555 demand tiles"
 msgstr "555タイル分の供給可能"
 
 msgid "A Single Penny"
-msgstr "1ペニー"
+msgstr "わずか１ペニー"
 
 msgid "A closer look at city services"
 msgstr "市が提供するサービスを詳しく見る"
@@ -320,7 +320,7 @@ msgid "Budget"
 msgstr "予算"
 
 msgid "Build %s"
-msgstr "%s建築"
+msgstr "%sを建築"
 
 msgid ""
 "Build a %s connection to a neighboring city for $%s?\n"
@@ -343,40 +343,40 @@ msgid "Buildings"
 msgstr "建築"
 
 msgid "Built %d %s tiles and %d bridges for $%s."
-msgstr "%d %s タイルと橋, %d 橋の費用: $%s."
+msgstr "%dタイルの %s と %d タイルの橋を建築。費用: $%s."
 
 msgid "Built %d %s tiles and a %s across %d water tiles for $%s."
-msgstr "%dを建築。 %s タイルと %s を横断して %d 水域、費用: $%s."
+msgstr "%dタイルの %s と %s を建築。 横断した水域: %d, 費用: $%s."
 
 msgid "Built %d %s tiles and a neighboring-city connection for $%s."
-msgstr "隣接する都市%dと接続しました。%d 使用タイル: %s, 接続費用: $%s."
+msgstr "%dタイルの%sを建築し隣接する都市を接続。接続費用: $%s."
 
 msgid "Built %d %s tiles for $%s."
-msgstr "%dタイル分の%sを建築: 費用: $%s."
+msgstr "%dタイルの%sを建築: 費用: $%s."
 
 msgid "Built %d highway sections and %d bridges for $%s."
-msgstr "%d 高速道路と%d 橋の建築。費用: $%s."
+msgstr "%d タイルの高速道路と%d タイルの橋の建築。費用: $%s."
 
 msgid "Built %d highway sections and a %s across %d water sections for $%s."
-msgstr "%d 高速道路と %s 横断する %d 水域。費用: $%s."
+msgstr "%dタイルの高速道路と%sを建築。横断した水域: %d, 費用: $%s."
 
 msgid "Built %d highway sections and a neighboring-city connection for $%s."
-msgstr "%d 高速道路と隣接する都市との接続の建築。費用: $%s."
+msgstr "%dタイルの高速道路と隣接する都市と接続。費用: $%s."
 
 msgid "Built %d highway sections for $%s."
-msgstr "%d 高速道路の建築。費用: $%s."
+msgstr "%dタイルの高速道路を建築。費用: $%s."
 
 msgid "Built %s for $%s."
 msgstr "%sの建築。費用: $%s."
 
 msgid "Built a %d-tile tunnel for $%s."
-msgstr "%dトンネルの建築。費用: $%s."
+msgstr "%dタイルのトンネルの建築。費用: $%s."
 
 msgid "Built a %s across %d water sections for $%s."
-msgstr "%s 横断する %d 水域の建築。費用: $%s."
+msgstr "%s を建築。横断する水域: %d タイル, 費用: $%s."
 
 msgid "Built a %s across %d water tiles for $%s."
-msgstr "%s 横断 %d 水タイルの建築。費用: $%s."
+msgstr "%s を建築。横断する水タイル: %d タイル, 費用: $%s."
 
 msgid "Bulldozer"
 msgstr "ブルドーザー"
@@ -385,7 +385,7 @@ msgid "Bus Depot"
 msgstr "バス停"
 
 msgid "Can be blocked by nearby residential zones."
-msgstr "隣接する住宅地区によってブロックされる可能性がある。"
+msgstr "隣接する住宅地区によってブロックされる可能性があります。"
 
 msgid "Cancel"
 msgstr "キャンセル"
@@ -472,7 +472,7 @@ msgid "Cannot start the disaster: %s"
 msgstr "災害の発生を開始できません: %s"
 
 msgid "Cannot start zone selection: %s"
-msgstr "地区の選択を開始できません: %s"
+msgstr "区画の選択を開始できません: %s"
 
 msgid "Cannot undo the last edit: %s"
 msgstr "直近の変更をアンドゥできません: %s"
@@ -598,16 +598,16 @@ msgid "City view centered at %d, %d."
 msgstr "%d, %dの位置から都市を眺める。"
 
 msgid "Clear"
-msgstr "消去"
+msgstr "クリア"
 
 msgid "Clear All"
-msgstr "全て消去"
+msgstr "全てクリア"
 
 msgid "Clear Object"
-msgstr "オブジェクトを消去"
+msgstr "オブジェクトをクリア"
 
 msgid "Clear ramp"
-msgstr "ランプを消去"
+msgstr "ランプをクリア"
 
 msgid "Clip to tile"
 msgstr "タイルをクリップ"
@@ -937,7 +937,7 @@ msgid "Finance"
 msgstr "財政"
 
 msgid "Fire"
-msgstr "消防"
+msgstr "火災"
 
 msgid "Fire Station"
 msgstr "消防署"
@@ -1063,7 +1063,7 @@ msgid "Height"
 msgstr "高さ"
 
 msgid "Height Map"
-msgstr "高さのマップ"
+msgstr "標高マップ"
 
 msgid "Helicopter Crash"
 msgstr "ヘリの墜落"
@@ -1093,7 +1093,7 @@ msgid "Hospital"
 msgstr "病院"
 
 msgid "Hot"
-msgstr "ホット"
+msgstr "暑い"
 
 msgid "Hurricane"
 msgstr "ハリケーン"
@@ -1126,7 +1126,7 @@ msgid "Import image"
 msgstr "画像をインポート"
 
 msgid "Import only a %s pack from your copy of SimCity 2000."
-msgstr "%s pack をあなたが所有するシムシティ2000らのみインポートしてください。"
+msgstr "%s pack をあなたが所有するシムシティ2000からのみインポートしてください。"
 
 msgid "Import your SimCity 2000 game files again to update them. The import keeps your other packs."
 msgstr "シムシティ2000のゲームファイルを再度インポートして、それらをアップデートしてください。インポートを行っても他のパックはそのまま保持されます。"
@@ -1171,10 +1171,10 @@ msgid "Journal"
 msgstr "ジャーナル"
 
 msgid "Just A Dollar"
-msgstr "１ドルきっかり"
+msgstr "わずか１ドル"
 
 msgid "Keep %s"
-msgstr "Keep %s"
+msgstr "%sのまま"
 
 msgid "LAND USE"
 msgstr "使用中の土地"
@@ -1309,7 +1309,7 @@ msgid "Meltdown"
 msgstr "メルトダウン"
 
 msgid "Merely Five Bucks"
-msgstr "たったの5ドル"
+msgstr "たったの５ドル"
 
 msgid "Microwave"
 msgstr "マイクロ波"
@@ -2137,7 +2137,7 @@ msgid "Steel/Mining"
 msgstr "鉄鋼・鉱業"
 
 msgid "Still A Quarter"
-msgstr "まだ25セント"
+msgstr "値段据え置き25セント"
 
 msgid "Stores 100 water units per tower tile. Stores surplus supply and releases stored water when needed. Requires a pipe connection."
 msgstr "給水塔はタイル1マスにつき100ユニット分の水を貯蔵します。余った水を蓄えて必要な時に供給します。水道管の接続が必要です。"
@@ -2288,7 +2288,7 @@ msgid "Treats 2,000 watered consumers per plant. Sufficient treatment improves t
 msgstr "１施設あたり2,000ユニット分の下水を処理します。十分な処理能力は公害を低減しますが、水そのものを生成するわけではありません。"
 
 msgid "Trees"
-msgstr "樹木"
+msgstr "木"
 
 msgid "Trip Query"
 msgstr "通行経路の詳細"
@@ -2444,7 +2444,7 @@ msgid "Weather with Merle"
 msgstr "マールの天気予報"
 
 msgid "Weather: %s"
-msgstr "天気: %s"
+msgstr "天候: %s"
 
 msgid "Weather: --"
 msgstr "天気: --"
@@ -2938,3 +2938,514 @@ msgstr "メニューやウィンドウの言語です。新聞などのゲーム
 
 msgid "The pack.json file of an HD sprite pack. It replaces the look of the city sprites with full-color art. The GPU renderer shows it. Leave this empty to show the sprites of the graphics pack."
 msgstr "HDスプライトパックのpack.jsonファイルです。都市のスプライトをフルカラーの画像に置き換えて表示します。GPUレンダラーでのみ表示されます。何も指定しない場合は、グラフィックパックのスプライトが表示されます。"
+
+
+
+msgid "Generating…"
+msgstr "生成中…"
+
+msgid "Put ocean along the edge of the map."
+msgstr "マップの端に沿って海を配置します。"
+
+msgid "Put a river across the map."
+msgstr "マップを横断する川を配置します。"
+
+msgid "Cut a bay into the coast."
+msgstr "海岸線に湾を切り込みます。"
+
+msgid "Make the river bend from side to side."
+msgstr "川を左右に蛇行させます。"
+
+msgid "Split the river into two branches."
+msgstr "川を2つの支流に分岐させます。"
+
+msgid "Split the river around land, then join it again."
+msgstr "川を陸地の周りで分岐させたあと、再び合流させます。"
+
+msgid "Add a second river that flows into the first river."
+msgstr "最初の川に流れ込む2本目の川を追加します。"
+
+msgid "Split the river into channels where it flows into the ocean."
+msgstr "川が海に流れ込む河口付近を複数の水路に分岐させます。"
+
+msgid "Add one lake."
+msgstr "湖を1つ追加します。"
+
+msgid "Add two lakes."
+msgstr "湖を2つ追加します。"
+
+msgid "Raise a large area of high, flat land."
+msgstr "広くて平らな台地を隆起させます。"
+
+msgid "Add a long line of high land across the map."
+msgstr "マップを横断する長い尾根（高地）を追加します。"
+
+msgid "Put the river in a low valley between higher land."
+msgstr "高い土地に挟まれた低い谷間に川を配置します。"
+
+msgid "Make low, smooth hills across the map."
+msgstr "マップ全体に低く穏やかな丘陵を作ります。"
+
+msgid "Make a low area with higher land around it."
+msgstr "周囲を高い土地に囲まれた低い盆地を作ります。"
+
+msgid "Cut a deep, narrow canyon across the map. A canyon replaces the river."
+msgstr "マップを横断する深く狭い渓谷を切り込みます。渓谷は川の代わりに配置されます。"
+
+msgid "Put steep, high land along the coast."
+msgstr "海岸線に沿って急峻な高い崖地を配置します。"
+
+msgid "Put the land on one island in the ocean. An island has no river."
+msgstr "海の中に1つの島として陸地を配置します。島には川がありません。"
+
+msgid "Put the land on two islands in the ocean. Islands have no river."
+msgstr "海の中に2つの島として陸地を配置します。島には川がありません。"
+
+msgid "Make a strip of land that goes out into the ocean."
+msgstr "海に向かって細長く突き出た半島を作ります。"
+
+msgid "Also enables River."
+msgstr "川も有効になります。"
+
+msgid "Also enables Ocean."
+msgstr "海も有効になります。"
+
+msgid "Settings changed. Click Regenerate Terrain."
+msgstr "設定を確認してから地形の再生成をクリックしてください。"
+
+msgid "Open Mods Folder"
+msgstr "Modsフォルダを開く"
+
+msgid "Reload Mods"
+msgstr "MODの再読み込み"
+
+msgid "Stop all mods, find the mods in the folder again, and start the enabled ones."
+msgstr "MODを停止し、フォルダの中のMODを確認したのちに有効化してください。"
+
+msgid "Open %s. Each folder in it with an info.json file is a mod."
+msgstr "%s を開きます。info.jsonファイルの含まれるそれぞれのフォルダがMODです。"
+
+msgid "No mods installed. To add a mod, copy its folder into the mods folder, then click Reload Mods."
+msgstr "MODはインストールされていません。MODを追加するにはMODを mods フォルダーにコピーし、MODを再読み込み をクリックしてください。"
+
+msgid "Power Plant Needed"
+msgstr "発電所が必要です"
+
+msgid "Citizens Demand Road & Rail"
+msgstr "市民が道路と鉄道を要求しています"
+
+msgid "Citizens Demand Police"
+msgstr "市民が警察署を要求しています"
+
+msgid "Fire Protection Demanded"
+msgstr "消防体制の強化が求められています"
+
+msgid "Water Shortage Reported"
+msgstr "水不足が報告されています"
+
+msgid "Hospitals Demanded"
+msgstr "病院の建設が求められています"
+
+msgid "Citizens Demand Schools"
+msgstr "市民が学校の建設を要求しています"
+
+msgid "Industry Demands Seaport"
+msgstr "工業が海港の建設を要求しています"
+
+msgid "Commerce Demands Airport"
+msgstr "商業が空港の建設を要求しています"
+
+msgid "Residents Demand Zoo"
+msgstr "住民が動物園の建設を要求しています"
+
+msgid "Residents Demand Stadium"
+msgstr "住民がスタジアムの建設を要求しています"
+
+msgid "Residents Demand Marina"
+msgstr "住民がマリーナの建設を要求しています"
+
+msgid "Residents Demand Park"
+msgstr "住民が公園の建設を要求しています"
+
+msgid "Industry Needs Connections"
+msgstr "工業地区に交通網の接続が必要です"
+
+msgid "Commerce Needs Connections"
+msgstr "商業地区に交通網の接続が必要です"
+
+msgid "Annual budget applied. The simulation can continue."
+msgstr "年間予算が適用されました。シミュレーションを継続できます。"
+
+msgid "Tunnel construction canceled. No action was taken."
+msgstr "トンネル建設は中止されました。"
+
+msgid "Bridge selection canceled. No action was taken."
+msgstr "橋の建設は中止されました。"
+
+
+
+msgid ""
+"Engineers report that tunnel construction costs will be $%s.\n"
+"Do you wish to construct the tunnel?"
+msgstr ""
+"技師の報告によると、トンネルの建設費用は $%s になります。\n"
+"トンネルを建設しますか？"
+
+msgid "The neighbor connection was canceled."
+msgstr "隣接都市への接続はキャンセルされました。"
+
+msgid "The bridge selection was canceled."
+msgstr "橋の選択はキャンセルされました。"
+
+msgid "The bridge was not built: %s."
+msgstr "橋を建設できませんでした: %s。"
+
+msgid "The connection was not offered because funds are too low."
+msgstr "資金が不足しているため、接続の提案は行われませんでした。"
+
+msgid "The route stopped at an obstruction."
+msgstr "障害物があるため、建設を途中で中断しました。"
+
+msgid "Route stopped: %s."
+msgstr "経路を取りやめました: %s。"
+
+
+msgid "Bridge selection was canceled."
+msgstr "橋の選択はキャンセルされました。"
+
+msgid "Rioters"
+msgstr "暴動"
+
+msgid "Melt Down"
+msgstr "メルトダウン"
+
+msgid "Fire Storm"
+msgstr "火災旋風"
+
+msgid "Major Flood"
+msgstr "大洪水"
+
+msgid "Density"
+msgstr "人口密度"
+
+msgid "Fire Power"
+msgstr "消防の影響力"
+
+msgid "Heightmap"
+msgstr "標高マップ"
+
+msgid "Land Value"
+msgstr "地価"
+
+msgid "Police Power"
+msgstr "警察の影響力"
+
+msgid "Power Supply"
+msgstr "電力供給"
+
+msgid "Rate of Growth"
+msgstr "成長率"
+
+msgid "Water Supply"
+msgstr "給水"
+
+msgid "Safety & Health"
+msgstr "治安と健康"
+
+msgid "Promotional"
+msgstr "宣伝"
+
+msgid "Other"
+msgstr "その他"
+
+msgid "Structures"
+msgstr "建造物"
+
+msgid "Crime Rate"
+msgstr "犯罪率"
+
+msgid "Police Depts"
+msgstr "警察署"
+
+msgid "Fire Depts"
+msgstr "消防署"
+
+msgid "Schools"
+msgstr "学校"
+
+msgid "Colleges"
+msgstr "大学"
+
+
+msgid "The scenario goals are complete. You can continue this city."
+msgstr "シナリオの目標を達成しました。このまま都市の開発を続けることもできます。"
+
+msgid "The scenario time limit expired."
+msgstr "シナリオの制限時間が終了しました。"
+
+msgid "The city is bankrupt. The mayor was impeached."
+msgstr "都市が破産しました。市長は解任されました。"
+
+msgid "Game Over"
+msgstr "ゲームオーバー"
+
+msgid "Scenario Complete"
+msgstr "シナリオクリア"
+
+msgid "Save Changes"
+msgstr "変更を保存"
+
+msgid "Don't Save"
+msgstr "保存しない"
+
+msgid "Save changes to %s before you continue?"
+msgstr "操作を続行する前に %s を保存しますか？"
+
+msgid "Estimated Annual Cost"
+msgstr "年間推定費用"
+
+msgid "1% Sales Tax"
+msgstr "消費税 1%"
+
+msgid "1% Income Tax"
+msgstr "所得税 1%"
+
+msgid "Legalized Gambling"
+msgstr "ギャンブル合法化"
+
+msgid "Parking Fines"
+msgstr "駐車違反の罰金"
+
+msgid "Volunteer Fire Dept."
+msgstr "消防団の設置."
+
+msgid "Public Smoking Ban"
+msgstr "公共の場での禁煙"
+
+msgid "Free Clinics"
+msgstr "無料診療所の開設"
+
+msgid "Junior Sports"
+msgstr "少年スポーツの振興"
+
+msgid "Pro-Reading Campaign"
+msgstr "読書推進キャンペーン"
+
+msgid "Anti-Drug Campaign"
+msgstr "薬物撲滅キャンペーン"
+
+msgid "CPR Training"
+msgstr "心肺蘇生法（CPR）の普及"
+
+msgid "Neighborhood Watch"
+msgstr "地域防犯パトロール"
+
+msgid "Tourist Advertising"
+msgstr "観光PRキャンペーン"
+
+msgid "Business Advertising"
+msgstr "企業誘致キャンペーン"
+
+msgid "City Beautification"
+msgstr "都市美化運動"
+
+msgid "Annual Carnival"
+msgstr "毎年恒例のカーニバル"
+
+msgid "Energy Conservation"
+msgstr "省エネルギー推進"
+
+msgid "Nuclear Free Zone"
+msgstr "非核地帯宣言"
+
+msgid "Homeless Shelter"
+msgstr "ホームレス保護施設"
+
+msgid "Pollution Controls"
+msgstr "公害規制"
+
+msgid "Raises revenue. Adds one point to the commercial tax rate used by demand, which reduces commercial demand."
+msgstr "歳入が増加します。需要計算に使われる商業税率が1ポイント上昇し、商業需要が減少します。"
+
+msgid "Raises revenue. Adds one point to the residential tax rate used by demand, which reduces residential demand."
+msgstr "歳入が増加します。需要計算に使われる住宅税率が1ポイント上昇し、住宅需要が減少します。"
+
+msgid "Raises revenue. Adds 16 to the local crime calculation before smoothing."
+msgstr "歳入が増加します。平滑化処理前の地域犯罪率の計算値に16が加算されます。"
+
+msgid "Raises revenue. No additional traffic or demand effect is implemented."
+msgstr "歳入が増加します。交通量や需要への追加効果はありません。"
+
+msgid "Costs money. Adds fire coverage around developed residential, commercial and industrial tiles."
+msgstr "費用がかかります。開発済みの住宅・商業・工業タイルの周囲に消防の管轄範囲が追加されます。"
+
+msgid "Costs money. Adds five years to the newborn life-expectancy input."
+msgstr "費用がかかります。新生児の平均余命の計算値に5年が加算されます。"
+
+msgid "Costs money. Adds health capacity based on the residential budget base."
+msgstr "費用がかかります。住宅予算の基準値に基づいて医療の収容能力が加算されます。"
+
+msgid "Costs money. No additional health or education effect is implemented."
+msgstr "費用がかかります。医療や教育への追加効果はありません。"
+
+msgid "Costs money. Prevents the education loss applied when population moves between age groups."
+msgstr "費用がかかります。人口が年齢層を移動する際に発生する教育水準の低下を防ぎます。"
+
+msgid "Costs money. Adds police coverage around developed residential, commercial and industrial tiles, reducing crime."
+msgstr "費用がかかります。開発済みの住宅・商業・工業タイルの周囲に警察の管轄範囲が追加され、犯罪が減少します。"
+
+msgid "Costs money. Reduces the effective commercial tax rate by one point, increasing commercial demand."
+msgstr "費用がかかります。実効商業税率が1ポイント下がり、商業需要が増加します。"
+
+msgid "Costs money. Reduces the effective industrial tax rate by one point, increasing industrial demand."
+msgstr "費用がかかります。実効工業税率が1ポイント下がり、工業需要が増加します。"
+
+msgid "Costs money. Reduces the effective residential tax rate by one point, increasing residential demand."
+msgstr "費用がかかります。実効住宅税率が1ポイント下がり、住宅需要が増加します。"
+
+msgid "Costs money. Adds one twelfth to available power-grid capacity, allowing more consumers to be supplied."
+msgstr "費用がかかります。利用可能な電力網の供給容量が12分の1増加し、より多くの建物へ電力を供給できるようになります。"
+
+msgid "Costs money. Prevents new nuclear power plants from being selected."
+msgstr "費用がかかります。新しい原子力発電所を建設候補から除外します。"
+
+msgid "Costs money. Reduces pollution and demand from polluting industries. Adds one point to the effective industrial tax rate, reducing industrial demand."
+msgstr "費用がかかります。公害および公害を発生させる工業の需要を減少させます。また、実効工業税率が1ポイント上昇し、工業需要が減少します。"
+
+msgid "The adjacent amount shows the estimated annual budget effect."
+msgstr "隣の金額は年間予算への推定影響額を示しています。"
+
+msgid "Estimated annual amount"
+msgstr "年間推定額"
+
+msgid "Isometric View"
+msgstr "表示範囲"
+
+msgid "Show the selected map in the isometric city view."
+msgstr "画面に表示する範囲を視覚化します。"
+
+msgid ""
+"Build a highway connection to a neighboring city?\n"
+"The highway and connection are free in Place & Print."
+msgstr ""
+"隣接都市へ接続する高速道路を建設しますか？\n"
+"Place & Print モードでは高速道路と接続費用は無料です。"
+
+msgid ""
+"Build a highway connection to a neighboring city for $%s?\n"
+"The %d-section highway costs $%s and remains if you cancel."
+msgstr ""
+"隣接都市へ 高速道路 を接続しますか？接続費用:$%s\n"
+"%dユニット建築します。建築費用: $%s."
+
+
+msgid "Neighbor Connection"
+msgstr "隣接都市との接続"
+
+msgid "Build Connection"
+msgstr "接続する"
+
+msgid "Keep Highway"
+msgstr "高速道路のまま"
+
+msgid "The height of the hills."
+msgstr "丘陵の高さを決めます。"
+
+msgid "The sea level and the number of streams. With terrain features, rivers are wider and there is more ocean."
+msgstr "海面の高さや川の大きさを決めます。地形的特徴が加わると川幅や海域が広がります。"
+
+msgid "The number of tree groups."
+msgstr "樹木の群生度合を決めます。"
+
+msgid "City started. Build zones, roads, and services."
+msgstr "都市の始まりです。区画、道、施設を建築しましょう。"
+
+msgid "Landscape editor: terrain changes are free. Select Start City when ready."
+msgstr "Landscape editor: 地形の変更は無料。準備が完了したら都市を始める を選択。"
+
+
+msgid "The Army has built a base in your city."
+msgstr "陸軍があなたの都市に基地を建設しました。"
+
+msgid "An Air Force base has been placed here."
+msgstr "空軍基地がこの地に設置されました。"
+
+msgid "A Naval base is built on your coastline."
+msgstr "海軍基地があなたの都市の海岸線に建設されました。"
+
+msgid "Six missile sites have been placed in your city."
+msgstr "６つのミサイル発射施設があなたの都市に設置されました。"
+
+msgid ""
+"The military is unable to find a suitable\nlocation for a base near your city.  You\nhave "
+"the thanks of the nation for your\npatriotic acquiesence.  SALUTE!!"
+msgstr ""
+"軍はあなたの都市の近郊に\n適した基地用地を見つけられませんでした。\n"
+"あなたの愛国心あふれる協力に\n国を代表して感謝いたします。敬礼！！"
+
+msgid "Because you have no police or firefighters, the National Guard has been deployed to your city"
+msgstr "警察や消防署が存在しないため、州兵があなたの都市に派遣されました"
+
+msgid "The people of your city love you so dearly that they\nhave thrown  a spontaneous parade in your honor."
+msgstr "市民はあなたを深く慕っており、自発的にあなたを称えるパレードが行われています。"
+
+msgid "Due to the current fiscal crisis, the city council urges you to cut back drastically on city expenditures."
+msgstr "現在の財政危機を受け、市議会はあなたに対し、市の支出を大幅に削減するよう求めています。"
+
+msgid "The exodus has begun."
+msgstr "エクソダスが始まりました。"
+
+msgid "Your launch arcos have departed into space to found new worlds. You have been compensated for their construction."
+msgstr "あなたのラウンチ・アルコは新たな世界を築くため、宇宙へと旅立ちました。その建築費用は補償されています。"
+
+msgid "Review the scenario briefing before the simulation starts."
+msgstr "シミュレーション開始前にブリーフィングを確認してください。"
+
+msgid "Begin Scenario"
+msgstr "シナリオを始める"
+
+msgid "Scenario: %s"
+msgstr "シナリオ: %s"
+
+msgid "Scenario started."
+msgstr "シナリオを始めました。"
+
+msgid "Return to Main Menu"
+msgstr "メインメニューに戻る"
+
+msgid "Return to the main menu? You can use Continue City to resume this city."
+msgstr "メインメニューに戻りますか？戻っても [都市を続ける] から再開できます。"
+
+msgid "Sorry, your city may not issue more bonds\nuntil your credit rating improves."
+msgstr "失礼ながら、信用が回復するまでこの都市ではこれ以上債券を発行できません。"
+
+msgid "The City Council believes that 50 outstanding bonds are enough."
+msgstr "市議会は現在発行済みの債券が50本あれば十分だと判断しています。"
+
+msgid "The bond could not be issued."
+msgstr "債券を発行できませんでした。"
+
+msgid "Cannot open the budget because its saved values are invalid."
+msgstr "保存された値が無効なため、予算を開くことができません。"
+
+msgid "You Need $10,000 Cash\nto Repay an Outstanding Bond."
+msgstr "発行済みの債券を償還するには\n10,000ドルの現金が必要です。"
+
+msgid "There are no outstanding bonds to repay."
+msgstr "償還すべき発行済みの債券はありません。"
+
+msgid "The bond could not be repaid."
+msgstr "債券を償還できませんでした。"
+
+msgid "The bond action did not complete."
+msgstr "債券に関する操作を完了できませんでした。"
+
+msgid "The military proposal was declined."
+msgstr "軍事提案は拒否されました。"
+
+msgid "The military could not find a suitable site."
+msgstr "軍は適切な用地を見つけることができませんでした。"
+
+msgid "%d of %d goals met. %d %s left."
+msgstr "%d / %d の目標を達成しました。残り: %d %s."
+
