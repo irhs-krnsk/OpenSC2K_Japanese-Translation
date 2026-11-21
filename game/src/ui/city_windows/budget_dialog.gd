@@ -115,7 +115,7 @@ func _build_rows() -> void:
 	controls.resize(Budget.BUDGET_COUNT)
 
 	for group in BudgetReport.GROUPS.size():
-		rows.add_child(_label(BudgetReport.GROUP_NAMES[group]))
+		rows.add_child(_label(_budget_text(BudgetReport.GROUP_NAMES[group])))
 		var field := VBoxContainer.new()
 		rows.add_child(field)
 		var spin := _spin(22 if group == 0 else 100)
